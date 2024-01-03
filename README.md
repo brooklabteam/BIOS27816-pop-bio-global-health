@@ -20,7 +20,7 @@
       * Basic arithmetic
       * Running a script
   * Make sure required software is downloaded and running on your personal computer.
-  * [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Reading-Digest-Directions.pdf) are your instructions for Reading Digests due at the beginning of each class day.
+  * [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Reading-Digest-Template.pdf) are your instructions for Reading Digests due at the beginning of each class day.
   
 
 **Tuesday, January 9: Understanding compartmental models of infectious diseases**
