@@ -2,153 +2,156 @@
 
 **Monday, January 8: Introduction to population biology of infectious diseases**
 
-
-* 9:00-9:30am: Introductions 
-* 9:30-10:00am: Overview of Syllabus
-* 10-11:00am: [Lecture: Intro to R Studio](/assets/2020/Lectures/E2M2_2020_Rbasics.pdf)
-__(Tanjona Ramiadantsoa)__
-* 9:30-10:00am: Small Groups: Software installation and catch-up. Mentors + instructors make sure all students have the proper materials installed and work through the [Intro Tutorials](https://coding4conservation.org/assets/tutorials/R_tutorials.zip). __(Tanjona Ramiadantsoa, Christian, Mentors)__
-* 10:00-10:30am: Coffee Break
-* 10:30am-11:30am: [Tutorial: Intro to R Studio](/assets/2020/Tutorials/E2M2_2020_Rbasics.R) __(Tanjona Ramiadantsoa, with help from Mentors)__
+* 9:00-9:15am: Introductions 
+* 9:15-9:30am: Overview of Syllabus
+* 9:30-10:30am: Lecture: Introduction to the population biology of infectious diseases
+  * Includes:
+      * overview of causative agents in infectious disease
+      * emphasis on diseases of importance in global health
+      * differences between population biology approach and classic epidemiology
+      * what is a model?
+      * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
+      * introduction to the R programming language
+* 10:30-11:15am: Activity: Formulating research questions for infectious disease modeling
+* 11:15-11:45am (continue for home work): Computer Tutorial: [Tutorial: Intro to R and R Studio](/Tutorials/Rbasics.R) 
   * Includes:
       * Knowing your working environment
       * Assigning variables
       * Basic arithmetic
       * Running a script
-* 11:30-1:00pm: Lunch + extra time if certain students need extra time for downloads/installations.
-* 1:00-2:00pm: [Lecture: Exploring & visualizing data in R](/assets/2022/Lectures/DataCleaningVisualization2023.pdf) __(Christian)__
-* 2:00-3:00pm : [Tutorial: Exploring & visualizing data in R](/assets/2022/Tutorials/DataCleaningVisualisation2023.zip) __(Christian, with help from Santino)__
-* 3:00-3:30pm: Coffee Break 
-* 3:30-4:00pm: [Lecture: Intro to for-loops, if-else statements, and functions](/assets/2022/Lectures/R_Bootcamp_forLoopsFunctionsIfElse.pdf) __(Cara Brook)__
-* 4:00-4:30pm: [Tutorial: Intro to for-loops, if-else statements, and functions](/assets/2022/Tutorials/E2M2_Bootcamp_If_Else.zip) __(Cara Brook)__
-* 4:30-5:30pm: Open mentoring session for outstanding questions or continued work on tutorials from above or from homework __(All instructors + mentors)__
+  * Make sure required software is downloaded and running on your personal computer.
+  
 
-**Saturday, Dec 10: “Travel Day"**
+**Tuesday, January 9: Understanding compartmental models of infectious diseases**
+* 9:00-9:20am: Reading recap
+* 9:20-10:20am: Lecture: Understanding compartmental models of infectious diseases
+* Includes:
+  * discrete vs. continuous time
+  * deterministic vs. stochastic models
+* 10:20-11:00am: Epidemic Card game modeling of an epidemic curve
+* 11:00-11:45am: Computer Tutorial: Exploring and visualizing infectious disease data using R
+* Homework due on Thursday, January 11: Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
-* 5:30am: Meet at Institut Pasteur for departure to Ranomafana (lunch stop Ambositra)
-* 6:30-7:30pm: Dinner
-* 7:30-9:00pm: Introductions
+**Wednesday, January 10: Thresholds to persistence in infectious diseases**
 
-
-**Sunday, Dec 11: "Getting Started with the Basics"**
-
-* 6:30-8:00am: Breakfast
-* 8:00-8:30am: Brief Introductions 
-* 8:30-10:00am: [Lecture: Data and Models](/assets/2022/Lectures/Data_and_Models.pdf) __(Cara)__
-* 10:00-10:30am: Coffee Break
-* 10:30am-12:00pm: [Introductions: 3-min student introductions](https://github.com/brooklabteam/E2M2/tree/main/assets/2022/Activities/PrepSlides)
-* 12:00-1:00pm: Lunch
-* 1:00-3:00pm:  Formulating research questions __(Cara)__
-  * [For HW, write your own research question](/assets/2022/Activities/HW_Formulating_Research_Questions.pdf)
-* 3:00-3:30pm: Coffee Break 
-* 3:30-5:00pm: [Lecture](/assets/2022/Lectures/GLMMs_for_dynamical_systems.pdf)/[Tutorial](/assets/2022/Tutorials/LinearRegression.zip): Linear Regression and Simple Statistics __(Andres)__
-* 6:30-7:30pm: Dinner
-
-**Monday, Dec 12: “Using Models with Data”**
-
-* 6:30-8:00am: Breakfast
-* 7:45-8:45am: C4C students present their projects to instructors (E2M2 students do not need to attend)
-* 8:45-9:00am: Road Map and Daily Agenda
-* 9:00-10:15am: [Lecture](/assets/2022/Lectures/StudyDesign.pdf)/[Tutorial](/assets/2022/Tutorials/StudyDesign.zip): Model Guided Study Design __(Cara)__
-  * Please read ['Model-Guided Field Work'](https://doi.org/10.1111/j.1461-0248.2012.01836.x) by Restif et al. 2012. prior to coming to class and be prepared to discuss
-* 10:15-10:45am: Coffee Break
-* 10:45am-12:00pm:  [Lecture: Introduction to Compartmental Models](assets/2022/Lectures/Intro_CompartmentalModels_2022.pdf) __(Sophia)__
-* 12:00-1:00pm: Lunch
-* 1:00-2:30pm: [Tutorial: Building Mechanistic Models in R](assets/2022/Tutorials/CompartmentalModels.zip)  __(Sophia)__
-* 2:30-3:00pm: Coffee Break
-* 3:00-3:30pm: Large Group Session: Refining research questions for modeling __(All Instructors)__
-  * Refine questions from yesterday and develop statistical frame work + model diagram
-* 3:30-5:30pm: Small Group Sessions: Refining research questions for modeling __(All instructors lead small groups)__
-  * All students should have a workable statistical and mechanistic question by the end of the session
-  * For HW, ['Creating a Model World + Building a Statistical Framework'](assets/2022/Activities/Model_Framework_HW.pdf),  will be due on **Wednesday, Dec 14**
-* 6:30-7:30pm: Dinner
-
-**Tuesday, Dec 13: “Applying Simple Models”**
-
-* 6:30-8:00am: Breakfast
-* 8:00-10:00am: [Exercise + Discussion: Dynamical Fever](assets/2022/Activities/Dynamical_Fever/Dynamical_Fever_Download.zip) __(Gwen, Sophia, Santino)__
-* 10:00-10:30am: Coffee Break
-* 10:30am-12:00pm: Work time + [One-on-One Student-Instructor Meetings](https://docs.google.com/spreadsheets/d/1ju9pppG7yrHtQU9Q6vX04jkZR_WxMiNimN-9G6e0sqM/edit#gid=0) __(All Instructors)__
-  * Students should fully develop their Statistical Frameworks and Model Diagrams by the end of today
-* 12:30-1:00pm: Lunch
-* 1:30-3:00pm: [Lecture](/assets/2022/Lectures/GLMMs_for_dynamical_systems.pdf)/[Tutorial](/assets/2022/Tutorials/GLMMs.zip): Introduction to Mixed Modeling __(Andres)__
-* 3:00-3:30pm: Coffee Break
-* 3:30-4:30pm: Small Group Discussion: Reading a Research Paper __(Christian + Michelle)__
-  * Read "[Prioritizing COVID-19 vaccination efforts and dose allocation within Madagascar](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13150-8)"  by Rasambainarivo et al. prior to coming to class and be prepared to discuss
-* 4:30-5:30pm: Mid-Session Feedback __(Santino)__
- * Students, please complete [this form](https://airtable.com/shreft5bn2iFxVSce) before midnight tonight. Santino will also solicit feedback on these topics directly.
-* 6:30-7:30pm: Dinner
-* 7:00pm: Night walk Ranomafana National Park (optional) 
-  * Meet out front of CVB!
+* 9:00-9:20am: Reading recap
+* 9:20-10:20am: Lecture: Thresholds to persistence in infectious diseases
+	* Includes:
+	    * R0, RE, force of infection
+	    * critical community size, herd immunity, critical vaccination threshold
+* 10:20-11:30am: Activity: Dynamical Fever (group exercise and discussion)
+* 11:30-11:45am: Refining your research questions (homework)
+* Homework due on Thursday, January 11: Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
-**Wednesday, Dec 14: “Fitting Models to Data”**
+**Thursday, January 11: Challenges to interventions in infectious disease control**
 
-* 6:30-8:00am: Breakfast
-* 7:30-11:00am: Morning hike in Ranomafana National Park
-  * Meet out front of CVB! Get your breakfast early
-* 11:00-11:30am: Coffee Break
-* 11:30am-12:45am: [Lecture](/assets/2022/Lectures/model-fitting-lecture-2022.pdf)/[Tutorial](/assets/2022/Tutorials/model-fitting-2022.zip): Model Fitting in Practice – the Basic Concept __(Michelle)__
-* 12:45-2:00pm: Lunch
-* 2:00-2:20pm: Response to Feedback & Review ['Creating a Model World + Building a Statistical Framework'](assets/2022/Activities/Model_Framework_HW.pdf). Now due on **Thursday, Dec 15**
-* 2:20-3:00pm: ['Exercise: Epidemic Cards'](assets/2022/Activities/Epidemic_Cards_Activity.zip) __(Gwen, Sophia, Santino)__
-* 3:00-3:30pm: Coffee Break
-* 3:30-4:30pm:  [Tutorial](assets/2022/Tutorials/Epidemic_Cards_Activity.zip): Model Fitting with Epidemic Cards __(Gwen, Sophia, Santino)__
-* 4:30-6:00pm: [One-on-One Student-Instructor Meetings](https://docs.google.com/spreadsheets/d/1MI290iDYhWub36_WoD2zZ0bHkbYgT8W_V9i3wdFhijY/edit?usp=sharing) __(All Instructors)__
-* 6:30-7:30pm: Dinner
+* 9:00-9:20am: Reading recap
+* 9:20-10:20am: Lecture: Challenges to interventions in infectious disease control
+	* Includes:
+	    * imperfect vaccines
+	    * public health policy and access
+	    * vaccine hesitancy
+	    * complex transmission dynamics (animal reservoirs, environmental transmission, metapopulation dynamics, sexually transmitted diseases)
+* 10:20-11:30am: Activity: Compartmental modeling of HIV in Harare via ShinyApp
+* 11:30-11:45am: Introduce homework: Build a model diagram diagram for your disease of interest and define its states and processes.
+* Homework due on Monday, January 15: Build a model diagram for your disease of interest and define its states and processes.
 
+**Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
 
-**Thursday, Dec 15: “Refining Your Work + Bells and Whistles”**
+**Monday, January 15: Transmission dynamics and interventions for HIV and TB**
 
-* 6:30-8:00am: Breakfast
-* 8:00-8:05am: Road Map, Daily Agenda
-* 8:05-9:30am: Activity: Model Telephone with Model Diagrams __(Cara)__
-  * Example model description [here](assets/2022/Activities/Model_Telephone_Example_Model_Description.pdf).
-* 9:30-10:15am: [Lecture + Activity: So many models! How to choose?!?](/assets/2022/Lectures/SoManyModels.pdf) __(Cara)__
-* 10:15-10:45am: Coffee Break
-* 10:45am-12:00pm:  [Lecture](/assets/2022/Lectures/Model_Fitting_Comparison.pdf)/[Tutorial](/assets/2022/Tutorials/Age-Prevalence-Model-Comp.zip): Model Selection and Comparison __(Christian)__
-* 12:00-1:00pm: Lunch
-* 1:00-2:30pm:[Lecture](/assets/2022/Lectures/IntroPhylo.pdf)/[Tutorial](/assets/2022/Tutorials/IntroPhylo.zip): Introduction to Phylogenetic Modeling __(Gwen)__
-* 2:30-3:00pm: Coffee Break
-* 3:00-4:00pm [Lecture](/assets/2022/Lectures/network-lecture-2022.pdf)/[Tutorial](/assets/2022/Tutorials/network_tutorial.zip): Introduction to Network Models __(Michelle)__
-* 4:00-4:15pm: [Final research plans](assets/2022/Activities/E2M2-Final-Research-Plan.pdf) (HW) __(Cara)__
-  * Due on Wednesday, January 4, 2023 at midnight! Submit [here](https://airtable.com/shrtvko5RPUyPlVjI).
-* 4:15-4:45pm: [Research Snapshots](assets/2022/Activities/Research-Snapshots.pdf) __(Gwen, Cara, Sophia)__
-* 4:45-6:00pm: C4C students practice presentations with instructors
-  * Work time/free time for E2M2 students
-* 6:30-7:30pm: Dinner
+* 9:00-9:20am: Reading recap
+* 9:20-10:00am: Model Telephone
+* 10:00-11:00am:  Lecture: Transmission dynamics and interventions for HIV and TB
+	* Includes:
+	    * history of HIV, with emphasis on past and present dynamics in LMICs, particularly Sub-Saharan Africa
+	    * application of transmission models to understanding and intervening in HIV spread
+	    * coupled dynamics of HIV and TB in LMICs
+* 11:00-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
+* Homework due on Tuesday, January 16: Refine your model diagram after today’s ‘Model Telephone’ activity.
 
 
-**Friday, Dec 16: “Putting It All In Perspective”**
+**Tuesday, January 16: Transmission dynamics and interventions for vector-borne diseases**
 
-* 6:30-8:00am: Breakfast
-* 8:00-8:15am: Road Map and Daily Agenda 
-* 8:15-9:30am: [Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication](/assets/2020/Lectures/LifeCycleModelingProject.pdf)  __(Andres)__
-* 9:30-10:00am: Coffee Break
-* 10:00am-11:45am: C4C student presentations (6 students at 15 min each)
-* 11:45am-12:00pm: Group photo - Wear your E<sup>2</sup>M<sup>2</sup>  shirts! 
-* 12:15-1:15pm: Lunch
-* 1:15-1:45pm: Lecture: Looking back: How far have we come? __(Cara)__
-* 1:45-3:00pm: [One-on-One Student-Instructor Meetings](https://docs.google.com/spreadsheets/d/12ftwCZgR4f5de34WkCLUHZWssq0TSgAsWr-OpsyZnag/edit?usp=sharing) __(All Instructors)__
-* 3:00-6:30pm: Work time + free time in town __(All Instructors)__
-* 6:30-9:00pm: Farewell dinner in Ranomafana town (Hotel Manja)
-* 9:30pm: Return bus to CVB
+* 9:00-9:20am: Reading recap
+* 9:20-10:00am:  Lecture: Transmission dynamics and interventions for vector-borne diseases
+	* Includes:
+	    * biology of malaria and impact on human evolution
+	    * models of malaria and challenges to control
+	    * biology of dengue and challenges to control
+	    * brief overview of other VBDs
+	    * impacts of climate change on VBD transmission
+* 10:00-10:45: Activity: Writing equations for a model world
+* 10:45-11:45am: Computer Tutorial: Live coding- constructing an infectious disease transmission model
+* Homework due on Wednesday, January 17: Write out equations for your model.
 
-**Saturday, Dec 17: (Travel Day)**
 
-* 5:30-6:00am: Breakfast to go
-* 6:00am: Board bus
-* Return to Antananarivo 
+**Wednesday, January 17: Transmission dynamics and interventions to control zoonotic diseases (case study: rabies)**
 
-**Please submit your responses to our Final Feedback form [here](https://airtable.com/shra1SSEsWDe9ImuI) by midnight on Monday, December 19, 2022.**
+* 9:00-9:20am: Reading recap
+* 9:20-10:00am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
+	* Includes:
+	  * key terms in understanding zoonotic diseases: reservoir vs. spillover hosts, maintenance vs. target populations 
+	  * reservoir culling and vaccination 
+	  * population biology of rabies persistence and elimination
+* 10:00-11:00am: Computer Tutorial: Fitting models to data – follow up from Epidemic Cards
+* 11:00-11:45am: Activity: Refining your model equations in partner pairs
+* Homework due on Friday, January 19: Draft R script of your infectious disease model
 
-* Note: We will not be teaching a few specific lessons this year, but here are links to the lectures/tutorial to peruse on your own time if interested:
-  * [Spatial Visualization and Plotting](/assets/2020/Tutorials/IntroSpatial.zip)
-  * [Occupany Modeling](/assets/2019/4_Occupancy.zip)
 
-**Wednesday, January 4, 2023: Work day at Madagascar Biodiversity Center**
-* 8:00am-4:00pm: Sophia (in the morning) and Cara (in the early mornining and afternoon) will be available to answer questions and help with presentation preparation at Madagascar Biodiversity Center at Tsimbazaza.
+**Thursday, January 18: Transmission dynamics and interventions for diseases with complex life cycles (case studies: schistosomiasis, cholera)**
 
-**Thursday, Thursday, January 5 2023**
-* 2:00-4:30pm: Final Symposium and presentations at Institut Pasteur du Madagascar
-* 4:30-5:30pm: Informal reception
+* 9:00-9:20am: Reading recap
+* 9:20-10:00am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
+	* Includes:
+	  * transmission and control of schistosomiasis
+	  * hygiene hypotheses, coinfections, and micro- vs. microparasite immunological tradeoffs
+	  * cholera dynamics
+* 10:00-11:00am: Computer Tutorial: Coupled SIR models in social-ecological systems
+* 11:00-11:45am: Mentored work time on your own projects.
+* Homework due on Friday, January 19: Draft R script of your infectious disease model
+
+**Friday, January 19: Course field trip to Edible Insect Farming Working Group at the Université de Strasbourg and vist to the 'In the Days of AIDS' exhibit at the Museum of Contemporary and Modern Art in Strasbourg.**
+
+
+**Monday, January 22: Introduction to molecular epidemiology and phylodynamics**
+
+* 9:00-9:20am: Reading recap
+* 9:20-10:20am:  Lecture: Introduction to molecular epidemiology and phylodynamics
+	* Includes:
+	  * history of phylodynamics as a field
+	  * overview of viral genomics: structure and functions
+	  * introduction to phylogenetic techniques: simple phylogenies, phylogeography, time-scaled phylogenies
+* 10:20-11:45am: Computer Tutorial: Building and interpreting simple maximum likelihood phylogenies using MEGA and RAxML
+* Homework due on Thursday, January 25: Final R script + term paper + final presentations
+
+
+**Tuesday, January 23: Molecular epidemiology of SARS-CoV-2**
+
+* 9:00-9:20am: Reading recap
+* 9:20-10:20am:  Lecture: Molecular epidemiology of SARS-CoV-2
+	* Includes:
+	  * zoonotic origins of SARS-CoV-2
+	  * introduction to Nextstrain and GISAID
+	  * Sangar vs. Illumina vs. nanopore sequencing
+	  * global expansion of pathogen genomic sequencing in response to COVID-19
+* 10:20-11:45am: Computer Tutorial: Building and interpreting TimeTrees using BEAST
+* Homework due on Thursday, January 25: Final R script + term paper + final presentations
+
+
+**Wednesday, January 24: Next Generation Sequencing and Emerging Infectious Diseases**
+
+* 9:00-9:20am: Reading recap
+* 9:20-9:50am:  Lecture: Molecular epidemiology of SARS-CoV-2
+	* Includes:
+	  * modern tools in pathogen surveillance
+	  * realtime outbreak response from NGS data
+zoonotic origins of SARS-CoV-2
+* 9:50-11:45am: Computer Tutorial: Investigating novel viruses from Next Generation Sequencing data
+* Homework due on Thursday, January 25: Final R script + term paper + final presentations
+
+**Thursday, January 25: Final Presentations**
+
+* *Final R code + Term papers due by 9:00 am*
+* 9:00-11:30am: Final Presentations (10 minutes per student + 5 minutes for questions) Reading recap
