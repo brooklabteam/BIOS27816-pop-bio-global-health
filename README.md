@@ -1,4 +1,4 @@
-# BIOS27816-pop-bio-global-health Detailed Syllabus
+# Pop Bio Global Health: Detailed Syllabus
 
 **Monday, January 8: Introduction to population biology of infectious diseases**
 
