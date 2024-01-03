@@ -13,7 +13,7 @@
       * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
       * introduction to the R programming language
 * 10:30-11:15am: Activity: Formulating research questions for infectious disease modeling
-* 11:15-11:45am (continue for home work): Computer Tutorial: [Tutorial: Intro to R and R Studio](/Tutorials/Rbasics.R) 
+* 11:15-11:45am (continue for home work): Computer Tutorial: Tutorial: Intro to R and R Studio
   * Includes:
       * Knowing your working environment
       * Assigning variables
