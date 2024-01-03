@@ -1,1 +1,154 @@
-# BIOS27816-pop-bio-global-health
+# BIOS27816-pop-bio-global-health Detailed Syllabus
+
+**Monday, January 8: Introduction to population biology of infectious diseases**
+
+
+* 9:00-9:30am: Introductions 
+* 9:30-10:00am: Overview of Syllabus
+* 10-11:00am: [Lecture: Intro to R Studio](/assets/2020/Lectures/E2M2_2020_Rbasics.pdf)
+__(Tanjona Ramiadantsoa)__
+* 9:30-10:00am: Small Groups: Software installation and catch-up. Mentors + instructors make sure all students have the proper materials installed and work through the [Intro Tutorials](https://coding4conservation.org/assets/tutorials/R_tutorials.zip). __(Tanjona Ramiadantsoa, Christian, Mentors)__
+* 10:00-10:30am: Coffee Break
+* 10:30am-11:30am: [Tutorial: Intro to R Studio](/assets/2020/Tutorials/E2M2_2020_Rbasics.R) __(Tanjona Ramiadantsoa, with help from Mentors)__
+  * Includes:
+      * Knowing your working environment
+      * Assigning variables
+      * Basic arithmetic
+      * Running a script
+* 11:30-1:00pm: Lunch + extra time if certain students need extra time for downloads/installations.
+* 1:00-2:00pm: [Lecture: Exploring & visualizing data in R](/assets/2022/Lectures/DataCleaningVisualization2023.pdf) __(Christian)__
+* 2:00-3:00pm : [Tutorial: Exploring & visualizing data in R](/assets/2022/Tutorials/DataCleaningVisualisation2023.zip) __(Christian, with help from Santino)__
+* 3:00-3:30pm: Coffee Break 
+* 3:30-4:00pm: [Lecture: Intro to for-loops, if-else statements, and functions](/assets/2022/Lectures/R_Bootcamp_forLoopsFunctionsIfElse.pdf) __(Cara Brook)__
+* 4:00-4:30pm: [Tutorial: Intro to for-loops, if-else statements, and functions](/assets/2022/Tutorials/E2M2_Bootcamp_If_Else.zip) __(Cara Brook)__
+* 4:30-5:30pm: Open mentoring session for outstanding questions or continued work on tutorials from above or from homework __(All instructors + mentors)__
+
+**Saturday, Dec 10: “Travel Day"**
+
+* 5:30am: Meet at Institut Pasteur for departure to Ranomafana (lunch stop Ambositra)
+* 6:30-7:30pm: Dinner
+* 7:30-9:00pm: Introductions
+
+
+**Sunday, Dec 11: "Getting Started with the Basics"**
+
+* 6:30-8:00am: Breakfast
+* 8:00-8:30am: Brief Introductions 
+* 8:30-10:00am: [Lecture: Data and Models](/assets/2022/Lectures/Data_and_Models.pdf) __(Cara)__
+* 10:00-10:30am: Coffee Break
+* 10:30am-12:00pm: [Introductions: 3-min student introductions](https://github.com/brooklabteam/E2M2/tree/main/assets/2022/Activities/PrepSlides)
+* 12:00-1:00pm: Lunch
+* 1:00-3:00pm:  Formulating research questions __(Cara)__
+  * [For HW, write your own research question](/assets/2022/Activities/HW_Formulating_Research_Questions.pdf)
+* 3:00-3:30pm: Coffee Break 
+* 3:30-5:00pm: [Lecture](/assets/2022/Lectures/GLMMs_for_dynamical_systems.pdf)/[Tutorial](/assets/2022/Tutorials/LinearRegression.zip): Linear Regression and Simple Statistics __(Andres)__
+* 6:30-7:30pm: Dinner
+
+**Monday, Dec 12: “Using Models with Data”**
+
+* 6:30-8:00am: Breakfast
+* 7:45-8:45am: C4C students present their projects to instructors (E2M2 students do not need to attend)
+* 8:45-9:00am: Road Map and Daily Agenda
+* 9:00-10:15am: [Lecture](/assets/2022/Lectures/StudyDesign.pdf)/[Tutorial](/assets/2022/Tutorials/StudyDesign.zip): Model Guided Study Design __(Cara)__
+  * Please read ['Model-Guided Field Work'](https://doi.org/10.1111/j.1461-0248.2012.01836.x) by Restif et al. 2012. prior to coming to class and be prepared to discuss
+* 10:15-10:45am: Coffee Break
+* 10:45am-12:00pm:  [Lecture: Introduction to Compartmental Models](assets/2022/Lectures/Intro_CompartmentalModels_2022.pdf) __(Sophia)__
+* 12:00-1:00pm: Lunch
+* 1:00-2:30pm: [Tutorial: Building Mechanistic Models in R](assets/2022/Tutorials/CompartmentalModels.zip)  __(Sophia)__
+* 2:30-3:00pm: Coffee Break
+* 3:00-3:30pm: Large Group Session: Refining research questions for modeling __(All Instructors)__
+  * Refine questions from yesterday and develop statistical frame work + model diagram
+* 3:30-5:30pm: Small Group Sessions: Refining research questions for modeling __(All instructors lead small groups)__
+  * All students should have a workable statistical and mechanistic question by the end of the session
+  * For HW, ['Creating a Model World + Building a Statistical Framework'](assets/2022/Activities/Model_Framework_HW.pdf),  will be due on **Wednesday, Dec 14**
+* 6:30-7:30pm: Dinner
+
+**Tuesday, Dec 13: “Applying Simple Models”**
+
+* 6:30-8:00am: Breakfast
+* 8:00-10:00am: [Exercise + Discussion: Dynamical Fever](assets/2022/Activities/Dynamical_Fever/Dynamical_Fever_Download.zip) __(Gwen, Sophia, Santino)__
+* 10:00-10:30am: Coffee Break
+* 10:30am-12:00pm: Work time + [One-on-One Student-Instructor Meetings](https://docs.google.com/spreadsheets/d/1ju9pppG7yrHtQU9Q6vX04jkZR_WxMiNimN-9G6e0sqM/edit#gid=0) __(All Instructors)__
+  * Students should fully develop their Statistical Frameworks and Model Diagrams by the end of today
+* 12:30-1:00pm: Lunch
+* 1:30-3:00pm: [Lecture](/assets/2022/Lectures/GLMMs_for_dynamical_systems.pdf)/[Tutorial](/assets/2022/Tutorials/GLMMs.zip): Introduction to Mixed Modeling __(Andres)__
+* 3:00-3:30pm: Coffee Break
+* 3:30-4:30pm: Small Group Discussion: Reading a Research Paper __(Christian + Michelle)__
+  * Read "[Prioritizing COVID-19 vaccination efforts and dose allocation within Madagascar](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13150-8)"  by Rasambainarivo et al. prior to coming to class and be prepared to discuss
+* 4:30-5:30pm: Mid-Session Feedback __(Santino)__
+ * Students, please complete [this form](https://airtable.com/shreft5bn2iFxVSce) before midnight tonight. Santino will also solicit feedback on these topics directly.
+* 6:30-7:30pm: Dinner
+* 7:00pm: Night walk Ranomafana National Park (optional) 
+  * Meet out front of CVB!
+
+
+**Wednesday, Dec 14: “Fitting Models to Data”**
+
+* 6:30-8:00am: Breakfast
+* 7:30-11:00am: Morning hike in Ranomafana National Park
+  * Meet out front of CVB! Get your breakfast early
+* 11:00-11:30am: Coffee Break
+* 11:30am-12:45am: [Lecture](/assets/2022/Lectures/model-fitting-lecture-2022.pdf)/[Tutorial](/assets/2022/Tutorials/model-fitting-2022.zip): Model Fitting in Practice – the Basic Concept __(Michelle)__
+* 12:45-2:00pm: Lunch
+* 2:00-2:20pm: Response to Feedback & Review ['Creating a Model World + Building a Statistical Framework'](assets/2022/Activities/Model_Framework_HW.pdf). Now due on **Thursday, Dec 15**
+* 2:20-3:00pm: ['Exercise: Epidemic Cards'](assets/2022/Activities/Epidemic_Cards_Activity.zip) __(Gwen, Sophia, Santino)__
+* 3:00-3:30pm: Coffee Break
+* 3:30-4:30pm:  [Tutorial](assets/2022/Tutorials/Epidemic_Cards_Activity.zip): Model Fitting with Epidemic Cards __(Gwen, Sophia, Santino)__
+* 4:30-6:00pm: [One-on-One Student-Instructor Meetings](https://docs.google.com/spreadsheets/d/1MI290iDYhWub36_WoD2zZ0bHkbYgT8W_V9i3wdFhijY/edit?usp=sharing) __(All Instructors)__
+* 6:30-7:30pm: Dinner
+
+
+**Thursday, Dec 15: “Refining Your Work + Bells and Whistles”**
+
+* 6:30-8:00am: Breakfast
+* 8:00-8:05am: Road Map, Daily Agenda
+* 8:05-9:30am: Activity: Model Telephone with Model Diagrams __(Cara)__
+  * Example model description [here](assets/2022/Activities/Model_Telephone_Example_Model_Description.pdf).
+* 9:30-10:15am: [Lecture + Activity: So many models! How to choose?!?](/assets/2022/Lectures/SoManyModels.pdf) __(Cara)__
+* 10:15-10:45am: Coffee Break
+* 10:45am-12:00pm:  [Lecture](/assets/2022/Lectures/Model_Fitting_Comparison.pdf)/[Tutorial](/assets/2022/Tutorials/Age-Prevalence-Model-Comp.zip): Model Selection and Comparison __(Christian)__
+* 12:00-1:00pm: Lunch
+* 1:00-2:30pm:[Lecture](/assets/2022/Lectures/IntroPhylo.pdf)/[Tutorial](/assets/2022/Tutorials/IntroPhylo.zip): Introduction to Phylogenetic Modeling __(Gwen)__
+* 2:30-3:00pm: Coffee Break
+* 3:00-4:00pm [Lecture](/assets/2022/Lectures/network-lecture-2022.pdf)/[Tutorial](/assets/2022/Tutorials/network_tutorial.zip): Introduction to Network Models __(Michelle)__
+* 4:00-4:15pm: [Final research plans](assets/2022/Activities/E2M2-Final-Research-Plan.pdf) (HW) __(Cara)__
+  * Due on Wednesday, January 4, 2023 at midnight! Submit [here](https://airtable.com/shrtvko5RPUyPlVjI).
+* 4:15-4:45pm: [Research Snapshots](assets/2022/Activities/Research-Snapshots.pdf) __(Gwen, Cara, Sophia)__
+* 4:45-6:00pm: C4C students practice presentations with instructors
+  * Work time/free time for E2M2 students
+* 6:30-7:30pm: Dinner
+
+
+**Friday, Dec 16: “Putting It All In Perspective”**
+
+* 6:30-8:00am: Breakfast
+* 8:00-8:15am: Road Map and Daily Agenda 
+* 8:15-9:30am: [Lecture: Modeling in Practice: The Life Cycle of a Modeling Project, from Conception to Publication](/assets/2020/Lectures/LifeCycleModelingProject.pdf)  __(Andres)__
+* 9:30-10:00am: Coffee Break
+* 10:00am-11:45am: C4C student presentations (6 students at 15 min each)
+* 11:45am-12:00pm: Group photo - Wear your E<sup>2</sup>M<sup>2</sup>  shirts! 
+* 12:15-1:15pm: Lunch
+* 1:15-1:45pm: Lecture: Looking back: How far have we come? __(Cara)__
+* 1:45-3:00pm: [One-on-One Student-Instructor Meetings](https://docs.google.com/spreadsheets/d/12ftwCZgR4f5de34WkCLUHZWssq0TSgAsWr-OpsyZnag/edit?usp=sharing) __(All Instructors)__
+* 3:00-6:30pm: Work time + free time in town __(All Instructors)__
+* 6:30-9:00pm: Farewell dinner in Ranomafana town (Hotel Manja)
+* 9:30pm: Return bus to CVB
+
+**Saturday, Dec 17: (Travel Day)**
+
+* 5:30-6:00am: Breakfast to go
+* 6:00am: Board bus
+* Return to Antananarivo 
+
+**Please submit your responses to our Final Feedback form [here](https://airtable.com/shra1SSEsWDe9ImuI) by midnight on Monday, December 19, 2022.**
+
+* Note: We will not be teaching a few specific lessons this year, but here are links to the lectures/tutorial to peruse on your own time if interested:
+  * [Spatial Visualization and Plotting](/assets/2020/Tutorials/IntroSpatial.zip)
+  * [Occupany Modeling](/assets/2019/4_Occupancy.zip)
+
+**Wednesday, January 4, 2023: Work day at Madagascar Biodiversity Center**
+* 8:00am-4:00pm: Sophia (in the morning) and Cara (in the early mornining and afternoon) will be available to answer questions and help with presentation preparation at Madagascar Biodiversity Center at Tsimbazaza.
+
+**Thursday, Thursday, January 5 2023**
+* 2:00-4:30pm: Final Symposium and presentations at Institut Pasteur du Madagascar
+* 4:30-5:30pm: Informal reception
