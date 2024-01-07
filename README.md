@@ -1,4 +1,4 @@
-# Pop Bio Global Health: Detailed Syllabus
+# Pop Bio Global Health: Daily Schedule
 
 **Monday, January 8: Introduction to population biology of infectious diseases**
 
