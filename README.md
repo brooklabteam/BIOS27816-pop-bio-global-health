@@ -13,8 +13,9 @@
       * what is a model?
       * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
       * introduction to the R programming language
-* 10:30-11:15am: Activity: Formulating research questions for infectious disease modeling - part one
-* 11:15-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
+* 10:30-10:50am: [Activity: Formulating research questions for infectious disease modeling - part one](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-1.docx)
+      * **For HW, start to brainstorm a disease of interest and a question of your own for tomorrow.**
+* 10:50-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
   * Includes:
       * Knowing your working environment
       * Assigning variables
@@ -30,19 +31,19 @@
 * Includes:
   * discrete vs. continuous time
   * deterministic vs. stochastic models
-* 10:20-11:00am: Epidemic Card game modeling of an epidemic curve
-* 11:00-11:45am: Computer Tutorial: Exploring and visualizing infectious disease data using R
+* 10:20-11:00am: [Activity: Formulating research questions for infectious disease modeling - part two](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-2.docx)
+* 11:00-11:45am: Epidemic Card game modeling of an epidemic curve
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 **Wednesday, January 10: Thresholds to persistence in infectious diseases**
 
 * 9:00-9:20am: Reading recap
-* 9:20-10:20am: Lecture: Thresholds to persistence in infectious diseases
+* 9:20-10:00am: Lecture: Thresholds to persistence in infectious diseases
 	* Includes:
 	    * R0, RE, force of infection
 	    * critical community size, herd immunity, critical vaccination threshold
-* 10:20-11:30am: Activity: Dynamical Fever (group exercise and discussion)
-* 11:30-11:45am: Refining your research questions (homework)
+* 10:00-11:00am: Activity: Dynamical Fever (group exercise and discussion)
+* 11:00-11:45am: [Activity: Refining your research questions - part three](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-2.doc)
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
@@ -55,8 +56,8 @@
 	    * public health policy and access
 	    * vaccine hesitancy
 	    * complex transmission dynamics (animal reservoirs, environmental transmission, metapopulation dynamics, sexually transmitted diseases)
-* 10:20-11:30am: Activity: Compartmental modeling of HIV in Harare via ShinyApp
-* 11:30-11:45am: Introduce homework: Build a model diagram diagram for your disease of interest and define its states and processes.
+* 10:20-11:30am: Computer Tutorial: Exploring and visualizing infectious disease data using R
+* 11:30-11:45am: Introduce homework: Build a model diagram for your disease of interest and define its states and processes.
 * [Homework due on Monday, January 15](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan15-Model-Diagram.pdf): Build a model diagram for your disease of interest and define its states and processes.
 
 **Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
