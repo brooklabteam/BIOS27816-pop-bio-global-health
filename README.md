@@ -14,15 +14,14 @@
       * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
       * introduction to the R programming language
 * 10:30-10:50am: [Activity: Formulating research questions for infectious disease modeling - part one](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-1.docx)
-      * **For HW, start to brainstorm a disease of interest and a question of your own for tomorrow.**
+  * **For HW, start to brainstorm a disease of interest and a question of your own for tomorrow.**
 * 10:50-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
   * Includes:
       * Knowing your working environment
       * Assigning variables
       * Basic arithmetic
       * Running a script
-  * Make sure required software is downloaded and running on your personal computer.
-  * [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Reading-Digest-Template.pdf) are your instructions for Reading Digests due at the beginning of each class day.
+* [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Reading-Digest-Template.pdf) are your instructions for Reading Digests due at the beginning of each class day.
   
 
 **Tuesday, January 9: Understanding compartmental models of infectious diseases**
@@ -32,7 +31,7 @@
   * discrete vs. continuous time
   * deterministic vs. stochastic models
 * 10:20-11:00am: [Activity: Formulating research questions for infectious disease modeling - part two](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-2.docx)
-* 11:00-11:45am: Epidemic Card game modeling of an epidemic curve
+* 11:00-11:45am: [Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Directions-Epidemic_Card-Game.pdf) modeling of an epidemic curve
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 **Wednesday, January 10: Thresholds to persistence in infectious diseases**
