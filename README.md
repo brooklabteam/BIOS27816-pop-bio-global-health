@@ -14,7 +14,7 @@
       * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
       * introduction to the R programming language
 * 10:30-11:15am: Activity: Formulating research questions for infectious disease modeling
-* 11:15-11:45am (continue for home work): Computer Tutorial: Tutorial: Intro to R and R Studio
+* 11:15-11:45am (continue for home work): Computer Tutorial:  Intro to R and R Studio
   * Includes:
       * Knowing your working environment
       * Assigning variables
@@ -32,7 +32,7 @@
   * deterministic vs. stochastic models
 * 10:20-11:00am: Epidemic Card game modeling of an epidemic curve
 * 11:00-11:45am: Computer Tutorial: Exploring and visualizing infectious disease data using R
-* Homework due on Thursday, January 11: Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
+* [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 **Wednesday, January 10: Thresholds to persistence in infectious diseases**
 
@@ -43,7 +43,7 @@
 	    * critical community size, herd immunity, critical vaccination threshold
 * 10:20-11:30am: Activity: Dynamical Fever (group exercise and discussion)
 * 11:30-11:45am: Refining your research questions (homework)
-* Homework due on Thursday, January 11: Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
+* [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
 **Thursday, January 11: Challenges to interventions in infectious disease control**
@@ -57,7 +57,7 @@
 	    * complex transmission dynamics (animal reservoirs, environmental transmission, metapopulation dynamics, sexually transmitted diseases)
 * 10:20-11:30am: Activity: Compartmental modeling of HIV in Harare via ShinyApp
 * 11:30-11:45am: Introduce homework: Build a model diagram diagram for your disease of interest and define its states and processes.
-* Homework due on Monday, January 15: Build a model diagram for your disease of interest and define its states and processes.
+* [Homework due on Monday, January 15](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan15-Model-Diagram.pdf): Build a model diagram for your disease of interest and define its states and processes.
 
 **Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
 
@@ -71,7 +71,7 @@
 	    * application of transmission models to understanding and intervening in HIV spread
 	    * coupled dynamics of HIV and TB in LMICs
 * 11:00-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
-* Homework due on Tuesday, January 16: Refine your model diagram after today’s ‘Model Telephone’ activity.
+* [Homework due on Tuesday, January 16](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan16-Updated-Model-Diagram.pdf): Refine your model diagram after today’s ‘Model Telephone’ activity.
 
 
 **Tuesday, January 16: Transmission dynamics and interventions for vector-borne diseases**
@@ -86,7 +86,7 @@
 	    * impacts of climate change on VBD transmission
 * 10:00-10:45: Activity: Writing equations for a model world
 * 10:45-11:45am: Computer Tutorial: Live coding- constructing an infectious disease transmission model
-* Homework due on Wednesday, January 17: Write out equations for your model.
+* [Homework due on Wednesday, January 17](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan17-Model-Equations.pdf): Write out equations for your model.
 
 
 **Wednesday, January 17: Transmission dynamics and interventions to control zoonotic diseases (case study: rabies)**
@@ -99,7 +99,7 @@
 	  * population biology of rabies persistence and elimination
 * 10:00-11:00am: Computer Tutorial: Fitting models to data – follow up from Epidemic Cards
 * 11:00-11:45am: Activity: Refining your model equations in partner pairs
-* Homework due on Friday, January 19: Draft R script of your infectious disease model
+* [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
 
 
 **Thursday, January 18: Transmission dynamics and interventions for diseases with complex life cycles (case studies: schistosomiasis, cholera)**
@@ -126,7 +126,7 @@
 	  * overview of viral genomics: structure and functions
 	  * introduction to phylogenetic techniques: simple phylogenies, phylogeography, time-scaled phylogenies
 * 10:20-11:45am: Computer Tutorial: Building and interpreting simple maximum likelihood phylogenies using MEGA and RAxML
-* Homework due on Thursday, January 25: Final R script + term paper + final presentations
+* Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 
 **Tuesday, January 23: Molecular epidemiology of SARS-CoV-2**
@@ -139,7 +139,7 @@
 	  * Sangar vs. Illumina vs. nanopore sequencing
 	  * global expansion of pathogen genomic sequencing in response to COVID-19
 * 10:20-11:45am: Computer Tutorial: Building and interpreting TimeTrees using BEAST
-* Homework due on Thursday, January 25: Final R script + term paper + final presentations
+* Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 
 **Wednesday, January 24: Next Generation Sequencing and Emerging Infectious Diseases**
@@ -151,9 +151,9 @@
 	  * realtime outbreak response from NGS data
 zoonotic origins of SARS-CoV-2
 * 9:50-11:45am: Computer Tutorial: Investigating novel viruses from Next Generation Sequencing data
-* Homework due on Thursday, January 25: Final R script + term paper + final presentations
+* Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 **Thursday, January 25: Final Presentations**
 
 * *Final R code + Term papers due by 9:00 am*
-* 9:00-11:30am: Final Presentations (10 minutes per student + 5 minutes for questions) Reading recap
+* 9:00-11:30am: [Final Presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf) (10 minutes per student + 5 minutes for questions) 
