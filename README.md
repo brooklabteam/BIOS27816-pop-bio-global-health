@@ -5,7 +5,7 @@
 
 * 9:00-9:15am: Introductions 
 * 9:15-9:30am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/course-info/Syllabus-PopBio-ID-GlobalHealth-Jan2024.pdf)
-* 9:30-10:30am: Lecture: Introduction to the population biology of infectious diseases
+* 9:30-10:50am: Lecture: Introduction to the population biology of infectious diseases
   * Includes:
       * overview of causative agents in infectious disease
       * emphasis on diseases of importance in global health
@@ -13,9 +13,9 @@
       * what is a model?
       * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
       * introduction to the R programming language
-* 10:30-10:50am: [Activity: Formulating research questions for infectious disease modeling - part one](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-1.docx)
+* 10:50-11:10am: [Activity: Formulating research questions for infectious disease modeling - part one](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Research-Questions-Activity-Instructions-Part-1.docx)
   * **For HW, start to brainstorm a disease of interest and a question of your own for tomorrow.**
-* 10:50-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
+* 11:10-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
   * Includes:
       * Knowing your working environment
       * Assigning variables
