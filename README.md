@@ -2,7 +2,7 @@
 
 **Monday, January 8: Introduction to population biology of infectious diseases**
 
-* Prior to arrival, please work through the following [Intro to R Tutorials](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
+
 * 9:00-9:15am: Introductions 
 * 9:15-9:30am: Overview of Syllabus
 * 9:30-10:30am: Lecture: Introduction to the population biology of infectious diseases
@@ -14,7 +14,7 @@
       * basic refresher on ordinary differential equations (ODEs) and applications to population modeling
       * introduction to the R programming language
 * 10:30-11:15am: Activity: Formulating research questions for infectious disease modeling
-* 11:15-11:45am (continue for home work): Computer Tutorial:  Intro to R and R Studio
+* 11:15-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
   * Includes:
       * Knowing your working environment
       * Assigning variables
