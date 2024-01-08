@@ -39,7 +39,7 @@
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:30am: Activity: Formulating research questions for infectious disease modeling - part 2
-* 10:30-11:45am:  Activity: Dynamical Fever (group exercise and discussion)
+* 10:30-11:45am:  [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
