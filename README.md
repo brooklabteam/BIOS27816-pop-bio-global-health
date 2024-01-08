@@ -48,7 +48,7 @@
 
 * 9:30-9:50am: Reading recap
 * 9:50-11:00am: Activity: Refining your research questions - part 3
-* 11:00-11:40: [Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
+* 11:00-11:40am: [Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
 * 11:40-11:45am: [Homework due on Monday, January 15](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan15-Model-Diagram.pdf): Build a model diagram for your disease of interest and define its states and processes.
 
 **Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
@@ -57,12 +57,12 @@
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:50am: Model Telephone
-* 10:50-11:20am:  Brief Lecture: Transmission dynamics and interventions for HIV and TB
+* 10:50-11:10am:  Brief Lecture: Transmission dynamics and interventions for HIV and TB
 	* Includes:
 	    * history of HIV, with emphasis on past and present dynamics in LMICs, particularly Sub-Saharan Africa
 	    * application of transmission models to understanding and intervening in HIV spread
 	    * coupled dynamics of HIV and TB in LMICs
-* 11:20-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
+* 11:10-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
 * [Homework due on Tuesday, January 16](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan16-Updated-Model-Diagram.pdf): Refine your model diagram after today’s ‘Model Telephone’ activity.
 
 
