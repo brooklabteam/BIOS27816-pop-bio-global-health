@@ -13,7 +13,7 @@
       * what is a model?
       * introduction to the R programming language
 * 10:50-11:10am: Activity: Formulating research questions for infectious disease modeling - part 1
-  * **For HW, start to brainstorm a disease of interest and a question of your own for Wednesday.**
+  * **For HW, start to brainstorm a disease of interest and a question of your own for an in-class activity on Wednesday.**
 * 11:10-11:45am (continue for homework until you are comfortable): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
   * Includes:
       * Knowing your working environment
@@ -33,17 +33,17 @@
   * R0, RE, force of infection
 	* critical community size, herd immunity, critical vaccination threshold
 * 11:00-11:45am: [Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Directions-Epidemic_Card-Game.pdf) modeling of an epidemic curve
-* [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
+* [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question. **Have a draft of your disease and question ready for an in-class activity tomorrow (Wednesday)!**
 
 **Wednesday, January 10: Thresholds to persistence in infectious diseases**
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:30am: Activity: Formulating research questions for infectious disease modeling - part 2
-* 9:30-11:30am:  Activity: Dynamical Fever (group exercise and discussion)
+* 10:30-11:45am:  Activity: Dynamical Fever (group exercise and discussion)
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
-**Thursday, January 11: Challenges to interventions in infectious disease control**
+**Thursday, January 11: Modeling interventions in infectious disease control**
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:40am: Activity: Refining your research questions - part 3
