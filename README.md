@@ -3,9 +3,9 @@
 **Monday, January 8: Introduction to population biology of infectious diseases**
 
 
-* 9:00-9:15am: Introductions 
-* 9:15-9:30am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/course-info/Syllabus-PopBio-ID-GlobalHealth-Jan2024.pdf)
-* 9:30-10:50am: Lecture: Introduction to the population biology of infectious diseases
+* 9:30-9:45am: Introductions 
+* 9:45-9:50am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/course-info/Syllabus-PopBio-ID-GlobalHealth-Jan2024.pdf)
+* 9:50-10:50am: Lecture: Introduction to the population biology of infectious diseases
   * Includes:
       * overview of causative agents in infectious disease
       * emphasis on diseases of importance in global health
@@ -29,6 +29,7 @@
 * Includes:
   * discrete vs. continuous time
   * deterministic vs. stochastic models
+  * review of basic differential equations
 * 10:20-11:00am: Activity: Formulating research questions for infectious disease modeling - part 2
 * 11:00-11:45am: [Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Directions-Epidemic_Card-Game.pdf) modeling of an epidemic curve
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
