@@ -5,7 +5,7 @@
 
 * 9:30-9:45am: Introductions 
 * 9:45-9:50am: Overview of [Syllabus](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/course-info/Syllabus-PopBio-ID-GlobalHealth-Jan2024.pdf)
-* 9:50-10:50am: Lecture: Introduction to the population biology of infectious diseases
+* 9:50-10:50am: [Lecture: Introduction to the population biology of infectious diseases](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/pdf-lectures/IntroPopBioGlobalHealth.pdf)
   * Includes:
       * overview of causative agents in infectious disease
       * emphasis on diseases of importance in global health
