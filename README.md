@@ -21,6 +21,7 @@
       * Basic arithmetic
       * Running a script
 * [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Reading-Digest-Template.pdf) are your instructions for Reading Digests due at the beginning of each class day. **All assignments should be uploaded to Canvas by 9:00am on the due date specified.**
+* [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/papers/) is a link to all papers for the course.
   
 
 **Tuesday, January 9: Understanding compartmental models of infectious diseases**
@@ -46,8 +47,8 @@
 **Thursday, January 11: Modeling interventions in infectious disease control**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:40am: Activity: Refining your research questions - part 3
-* 10:40-11:40: Computer Tutorial: Building compartmental models for infectious diseases in R
+* 9:50-11:00am: Activity: Refining your research questions - part 3
+* 11:00-11:40: Computer Tutorial: Building compartmental models for infectious diseases in R
 * 11:40-11:45am: [Homework due on Monday, January 15](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan15-Model-Diagram.pdf): Build a model diagram for your disease of interest and define its states and processes.
 
 **Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
