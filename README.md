@@ -21,7 +21,7 @@
       * Basic arithmetic
       * Running a script
 * [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Reading-Digest-Template.pdf) are your instructions for Reading Digests due at the beginning of each class day. **All assignments should be uploaded to Canvas by 9:00am on the due date specified.**
-* [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/papers/) is a link to all papers for the course.
+* [Here](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/tree/main/papers) is a link to the folder with all papers for the course.
   
 
 **Tuesday, January 9: Understanding compartmental models of infectious diseases**
