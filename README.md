@@ -31,7 +31,7 @@
     * deterministic vs. stochastic models
     * review of basic differential equations and application to disease modeling
     * R0, RE, force of infection
-	  * critical community size, herd immunity, critical vaccination threshold
+    * critical community size, herd immunity, critical vaccination threshold
 * 11:00-11:45am: [Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Directions-Epidemic_Card-Game.pdf) modeling of an epidemic curve
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question. **Have a draft of your disease and question ready for an in-class activity tomorrow (Wednesday)!**
 
