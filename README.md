@@ -146,5 +146,5 @@ zoonotic origins of SARS-CoV-2
 
 **Thursday, January 25: Final Presentations**
 
-*  [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) due by 9:00 am
-* 9:00-11:30am: [Final Presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf) (10 minutes per student + 5 minutes for questions) 
+*  [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) due by 9:30 am
+* 9:30-11:45am: [Final Presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf) (10 minutes per student + 5 minutes for questions) 
