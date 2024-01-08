@@ -55,90 +55,89 @@
 
 **Monday, January 15: Transmission dynamics and interventions for HIV and TB**
 
-* 9:00-9:20am: Reading recap
-* 9:20-10:00am: Model Telephone
-* 10:00-11:00am:  Lecture: Transmission dynamics and interventions for HIV and TB
+* 9:30-9:50am: Reading recap
+* 9:50-10:50am: Model Telephone
+* 10:50-11:20am:  Brief Lecture: Transmission dynamics and interventions for HIV and TB
 	* Includes:
 	    * history of HIV, with emphasis on past and present dynamics in LMICs, particularly Sub-Saharan Africa
 	    * application of transmission models to understanding and intervening in HIV spread
 	    * coupled dynamics of HIV and TB in LMICs
-* 11:00-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
+* 11:20-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
 * [Homework due on Tuesday, January 16](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan16-Updated-Model-Diagram.pdf): Refine your model diagram after today’s ‘Model Telephone’ activity.
 
 
 **Tuesday, January 16: Transmission dynamics and interventions for vector-borne diseases**
 
-* 9:00-9:20am: Reading recap
-* 9:20-10:00am:  Lecture: Transmission dynamics and interventions for vector-borne diseases
+* 9:30-9:50am: Reading recap
+* 9:50-10:10am:  Brief Lecture: Transmission dynamics and interventions for vector-borne diseases
 	* Includes:
 	    * biology of malaria and impact on human evolution
 	    * models of malaria and challenges to control
 	    * biology of dengue and challenges to control
 	    * brief overview of other VBDs
 	    * impacts of climate change on VBD transmission
-* 10:00-10:45: Activity: Writing equations for a model world
-* 10:45-11:45am: Computer Tutorial: Live coding- constructing an infectious disease transmission model
+* 10:10-11:00: Activity: Writing equations for a model world
+* 11:00-11:45am: Computer Tutorial: Live coding- constructing an infectious disease transmission model 
 * [Homework due on Wednesday, January 17](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan17-Model-Equations.pdf): Write out equations for your model.
 
 
 **Wednesday, January 17: Transmission dynamics and interventions to control zoonotic diseases (case study: rabies)**
 
-* 9:00-9:20am: Reading recap
-* 9:20-10:00am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
+* 9:30-9:50am: Reading recap
+* 9:50-10:10am:  Brief Lecture: Transmission dynamics and interventions to control zoonotic diseases
 	* Includes:
 	  * key terms in understanding zoonotic diseases: reservoir vs. spillover hosts, maintenance vs. target populations 
 	  * reservoir culling and vaccination 
 	  * population biology of rabies persistence and elimination
-* 10:00-11:00am: Computer Tutorial: Fitting models to data – follow up from Epidemic Cards
+* 10:10-11:00am: Computer Tutorial: Fitting models to data – follow up from Epidemic Cards
 * 11:00-11:45am: Activity: Refining your model equations in partner pairs
 * [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
 
 
 **Thursday, January 18: Transmission dynamics and interventions for diseases with complex life cycles (case studies: schistosomiasis, cholera)**
 
-* 9:00-9:20am: Reading recap
-* 9:20-10:00am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
+* 9:30-9:50am: Reading recap
+* 9:50-10:10am:  Brief Lecture: Transmission dynamics and interventions for diseases with complex life cycles
 	* Includes:
 	  * transmission and control of schistosomiasis
-	  * hygiene hypotheses, coinfections, and micro- vs. microparasite immunological tradeoffs
-	  * cholera dynamics
-* 10:00-11:00am: Computer Tutorial: Coupled SIR models in social-ecological systems
+	  * hygiene hypotheses, coinfections
+	  * poverty traps and coupled social-ecological models
+* 10:10-11:00am: Computer Tutorial: Coupled SIR models in social-ecological systems
 * 11:00-11:45am: Mentored work time on your own projects.
 * Homework due on Friday, January 19: Draft R script of your infectious disease model
 
 **Friday, January 19: Course field trip to Edible Insect Farming Working Group at the Université de Strasbourg and vist to the 'In the Days of AIDS' exhibit at the Museum of Contemporary and Modern Art in Strasbourg.**
 
 
-**Monday, January 22: Introduction to molecular epidemiology and phylodynamics**
+**Monday, January 22: Introduction to phylogenetic models**
 
-* 9:00-9:20am: Reading recap
-* 9:20-10:20am:  Lecture: Introduction to molecular epidemiology and phylodynamics
-	* Includes:
-	  * history of phylodynamics as a field
-	  * overview of viral genomics: structure and functions
-	  * introduction to phylogenetic techniques: simple phylogenies, phylogeography, time-scaled phylogenies
-* 10:20-11:45am: Computer Tutorial: Building and interpreting simple maximum likelihood phylogenies using MEGA and RAxML
+* 9:30-9:50am: Reading recap
+* 9:50-10:50am:  Lecture: Introduction to phylogenetics (Gwen)
+* 10:50-11:45am: Computer Tutorial: Building and interpreting simple maximum likelihood phylogenies using MEGA and RAxML
 * Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 
 **Tuesday, January 23: Molecular epidemiology of SARS-CoV-2**
 
-* 9:00-9:20am: Reading recap
-* 9:20-10:20am:  Lecture: Molecular epidemiology of SARS-CoV-2
+* 9:30-9:50am: Reading recap
+* 9:50-10:50am:  Lecture: Introduction to phylodynamics and molecular epidemiology 
 	* Includes:
+	  * history of phylodynamics as a field
+	  * overview of viral genomics: structure and functions
 	  * zoonotic origins of SARS-CoV-2
 	  * introduction to Nextstrain and GISAID
-	  * Sangar vs. Illumina vs. nanopore sequencing
 	  * global expansion of pathogen genomic sequencing in response to COVID-19
-* 10:20-11:45am: Computer Tutorial: Building and interpreting TimeTrees using BEAST
+* 10:50-11:45am: Computer Tutorial: Building and interpreting TimeTrees using BEAST
 * Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 
 **Wednesday, January 24: Next Generation Sequencing and Emerging Infectious Diseases**
 
 * 9:00-9:20am: Reading recap
-* 9:20-9:50am:  Lecture: Molecular epidemiology of SARS-CoV-2
+* 9:20-9:50am:  Lecture: Next Generation Sequencing and Emerging Infectious Diseases
 	* Includes:
+	  * Sangar vs. Illumina vs. nanopore sequencing
+	  * Intro to CZID
 	  * modern tools in pathogen surveillance
 	  * realtime outbreak response from NGS data
 zoonotic origins of SARS-CoV-2
