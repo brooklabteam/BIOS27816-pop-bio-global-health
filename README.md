@@ -14,7 +14,7 @@
       * introduction to the R programming language
 * 10:50-11:10am: Activity: Formulating research questions for infectious disease modeling - part 1
   * **For HW, start to brainstorm a disease of interest and a question of your own for tomorrow.**
-* 11:10-11:45am (continue for home work): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
+* 11:10-11:45am (continue for homework until you are comfortable): [Computer Tutorial:  Intro to R and R Studio](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro-R.zip)
   * Includes:
       * Knowing your working environment
       * Assigning variables
