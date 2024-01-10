@@ -39,18 +39,17 @@
 **Wednesday, January 10: Thresholds to persistence in infectious diseases**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:20am: [Computer Tutorial: Visualizing and modeling data from Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Epidemic_Cards_Modeling.zip)
-* 10:20-11:00am: Activity: Formulating research questions for infectious disease modeling - part 2
-* 11:00-11:45am:  [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
+* 9:50-10:50am: [Computer Tutorial: Visualizing and modeling data from Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Epidemic_Cards_Modeling.zip)
+* 11:00-11:45am: Activity: Formulating research questions for infectious disease modeling - part 2
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
 **Thursday, January 11: Modeling interventions in infectious disease control**
 
-* 9:30-9:50am: Reading recap
-* 9:50-11:00am: Activity: Refining your research questions - part 3
-* 11:00-11:40am: [Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
-* 11:40-11:45am: [Homework due on Monday, January 15](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan15-Model-Diagram.pdf): Build a model diagram for your disease of interest and define its states and processes.
+* 9:30-9:40am: Reading recap
+* 9:40-10:50am: Activity: Refining your research questions - part 3
+* 10:50-10:55am: [Homework due on Monday, January 15](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan15-Model-Diagram.pdf): Build a model diagram for your disease of interest and define its states and processes.
+* 10:55-11:45am: [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
 
 **Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
 
@@ -78,7 +77,8 @@
 	    * brief overview of other VBDs
 	    * impacts of climate change on VBD transmission
 * 10:10-11:00: Activity: Writing equations for a model world
-* 11:00-11:45am: Computer Tutorial: Live coding- constructing an infectious disease transmission model for VBD
+* 11:00-11:45am: 
+[Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
 * [Homework due on Wednesday, January 17](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan17-Model-Equations.pdf): Write out equations for your model.
 
 
