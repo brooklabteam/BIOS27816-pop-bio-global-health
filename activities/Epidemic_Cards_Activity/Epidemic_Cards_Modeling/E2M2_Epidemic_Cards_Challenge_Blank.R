@@ -1,8 +1,7 @@
 ## Epidemic Cards Tutorial: computer exercise
-## E2M2: Ecological and Epidemiological Modeling in Madagascar
 
-## Sophia Horigan, 2022
-## from Cara Brook
+
+## Original Tutorial by Cara Brook, 2017, E2M2: Ecological and Epidemiological Modeling in Madagascar
 
 ## By now, you've been exposed to some of the variety of model
 ## types used to understand infectious disease data. We'll now work
@@ -326,13 +325,11 @@ head(out)
 
 ## what is the sum of squares? How do we use it to fit a model?
 
-## (Hint: This will include 4 steps: 
+## (Hint: This will include 3 steps: 
 ## 1. You will first need to run your model at your chosen parameters.
-## 2. You will then need to add two columns labeled "I_predictions" and "S_predictions" to your dat.R0
-##    dataset and fill with 'NAs'
-## 3. You will then need to fill those columns with model predictions from step #1. This will 
-##    require a for-loop over the unique trials.
-## 4. You will need to calculate the sum of squared differences between all model predictions (both S
+## 2. You will then need to merge your model predictions with your data values
+##   for each timestep
+## 3. You will need to calculate the sum of squared differences between all model predictions (both S
 ##    and I) from the data and return it from the function.)
 
 
@@ -341,28 +338,15 @@ sum_sq <- function(par, real.dat, time){
   ## 1. You will first need to run your model at your chosen parameters.
   out.model <- SIR.discrete.deterministic(R0=par, time=time)
   
-  ## 2. You will then need to add two columns labeled "I_predictions" and "S_predictions" to your dat.R0
-  ##    dataset and fill with 'NAs'
-  real.dat$I_predictions <- real.dat$S_predictions <- NA
+  ## 2. You will then need to merge the modeled dataset with the real dataset:
+  ## Rename model output:
+  names(out.model) <- c("timestep", "S_predictions", "I_predictions")
   
-  ## 3. You will then next to fill those columns with model predictions at the appropriate timesteps
-  ##    like those from #21. This will require a double for-loop over the unique trials and timesteps.
+  ## and merge
+  real.dat <- merge(real.dat, out.model, by = "timestep", all.x = T)
   
-  ## Infecteds first:
-  for(i in 1:length(unique(real.dat$trial))){
-    for(j in 1:length(unique(real.dat$timestep))){
-      real.dat$I_predictions[real.dat$trial==i & real.dat$timestep==j] <- out.model$I[out.model$time==j]
-    }
-  }
-  
-  ## And Susceptibles:
-  for(i in 1:length(unique(real.dat$trial))){
-    for(j in 1:length(unique(real.dat$timestep))){
-      real.dat$S_predictions[real.dat$trial==i & real.dat$timestep==j] <- out.model$S[out.model$time==j]
-    }
-  }
-  
-  ## 4. You will need to calculate the sum of squared differences between all model predictions (both S
+
+  ## 3. You will need to calculate the sum of squared differences between all model predictions (both S
   ##    and I) from the data and return it from the function.)
   
   ## First, get both S and I differences
