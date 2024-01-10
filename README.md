@@ -39,9 +39,9 @@
 **Wednesday, January 10: Thresholds to persistence in infectious diseases**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:10am: [Computer Tutorial: Visualizing and modeling data from Epidemic Cards]()
-* 9:50-10:30am: Activity: Formulating research questions for infectious disease modeling - part 2
-* 10:30-11:45am:  [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
+* 9:50-10:20am: [Computer Tutorial: Visualizing and modeling data from Epidemic Cards](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Epidemic_Cards_Activity/Epidemic_Cards_Modeling.zip)
+* 10:20-11:00am: Activity: Formulating research questions for infectious disease modeling - part 2
+* 11:00-11:45am:  [Activity: Dynamical Fever](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/Dynamical_Fever/Dynamical_Fever_Download.zip) (group exercise and discussion)
 * [Homework due on Thursday, January 11](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan11-Disease-Q-States-Processes.pdf): Choose a disease of interest, and formulate a research question about it that can be addressed with a dynamical (compartmental) model. List the ‘states’ and ‘processes’ associated with your research question.
 
 
