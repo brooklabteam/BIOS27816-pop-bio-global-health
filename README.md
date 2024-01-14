@@ -66,7 +66,7 @@
   * You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please install the package before you begin by running the command in R Studio:
   ```
   install.packages('devtools')
-  `devtools::install_github('ICI3D/ici3d-pkg')
+  devtools::install_github('ICI3D/ici3d-pkg')
   ```
   * To run the tutorial (after installing the package), type ```ICI3D::hivTutorial()```
 * [Homework due on Tuesday, January 16](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan16-Updated-Model-Diagram.pdf): Refine your model diagram after today’s ‘Model Telephone’ activity.
