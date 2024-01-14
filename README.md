@@ -53,16 +53,22 @@
 
 **Friday, January 12: Course field trip to AIGHD and Museum Vrolik**
 
-**Monday, January 15: Transmission dynamics and interventions for HIV and TB**
+**Monday, January 15: Transmission dynamics and interventions for HIV**
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:50am: Model Telephone
-* 10:50-11:10am:  Brief Lecture: Transmission dynamics and interventions for HIV and TB
+* 10:50-11:10am:  Lecture: Transmission dynamics and interventions for HIV
 	* Includes:
 	    * history of HIV, with emphasis on past and present dynamics in LMICs, particularly Sub-Saharan Africa
 	    * application of transmission models to understanding and intervening in HIV spread
 	    * coupled dynamics of HIV and TB in LMICs
 * 11:10-11:45am: Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
+  * You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please install the package before you begin by running the command in R Studio:
+  ```
+  install.packages('devtools')
+  `devtools::install_github('ICI3D/ici3d-pkg')
+  ```
+  * To run the tutorial (after installing the package), type ```ICI3D::hivTutorial()```
 * [Homework due on Tuesday, January 16](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan16-Updated-Model-Diagram.pdf): Refine your model diagram after today’s ‘Model Telephone’ activity.
 
 
