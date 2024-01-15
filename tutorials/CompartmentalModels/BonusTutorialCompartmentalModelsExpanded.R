@@ -13,7 +13,6 @@ rm(list = ls())
 # Modeling Population Growth
 # Investigating continuous vs discrete time
 # Structured population models
-# Lotka-Volterra models of predator-prey dynamics
 # Susceptible-Infected-Recovered models
 ##############################################################################
 ## load your libraries first
