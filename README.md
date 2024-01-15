@@ -57,7 +57,7 @@
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:50am: Model Telephone
-* 10:50-11:10am:  Lecture: Transmission dynamics and interventions for HIV
+* 10:50-11:10am:  [Lecture: Transmission dynamics and interventions for HIV](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/tree/main/pdf-lectures)
 	* Includes:
 	    * history of HIV, with emphasis on past and present dynamics in LMICs, particularly Sub-Saharan Africa
 	    * application of transmission models to understanding and intervening in HIV spread
