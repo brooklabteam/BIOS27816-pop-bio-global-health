@@ -75,43 +75,50 @@
 **Tuesday, January 16: Transmission dynamics and interventions for vector-borne diseases**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:10am:  Brief Lecture: Transmission dynamics and interventions for vector-borne diseases
+* 9:50-10:10am:  Computer Tutorial: Compartmental modeling of HIV in Harare via Shiny App
+  * You will need the most recent version of the ICI3D R package for this tutorial. If you are using your laptop for the tutorials, please install the package before you begin by running the command in R Studio:
+  ```
+  install.packages('devtools')
+  devtools::install_github('ICI3D/ici3d-pkg')
+  ```
+* 10:10-10:50am:  Lecture: Transmission dynamics and interventions for vector-borne diseases
 	* Includes:
 	    * biology of malaria and impact on human evolution
 	    * models of malaria and challenges to control
 	    * biology of dengue and challenges to control
 	    * brief overview of other VBDs
 	    * impacts of climate change on VBD transmission
-* 10:10-11:00: Activity: Writing equations for a model world
-* 11:00-11:45am: 
-[Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
+* 10:50-11:45am: Activity: Writing equations for a model world
+  * Take 15 minutes on your computer or iPad, and write out the equations that you think best represent your compartmental model.
+  * Once complete, we will go over a subset of these as examples in class.
 * [Homework due on Wednesday, January 17](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan17-Model-Equations.pdf): Write out equations for your model.
 
 
 **Wednesday, January 17: Transmission dynamics and interventions to control zoonotic diseases (case study: rabies)**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:10am:  Brief Lecture: Transmission dynamics and interventions to control zoonotic diseases
+* 9:50-11:00am: [Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
+  * We will start with "TutorialSIRModels.R" as this teaches you how to build a disease model in R. This is similar to what you need to turn in for your homework Friday. Please note that your model does not need to be working by Friday--you just need to demonstrate an attempt to write the code to get credit for the assignment. We will help you edit it until it is working.
+  * If you have extra time or are simply interested, work through the second script "BonusTutorialCompartmentalModelsExpanded.R" at your leisure.
+* 11:00-11:45am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
 	* Includes:
 	  * key terms in understanding zoonotic diseases: reservoir vs. spillover hosts, maintenance vs. target populations 
 	  * reservoir culling and vaccination 
 	  * population biology of rabies persistence and elimination
-* 10:10-11:00am: Computer Tutorial: Fitting models to data – follow up from Epidemic Cards
-* 11:00-11:45am: Activity: Refining your model equations in partner pairs
 * [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
 
 
 **Thursday, January 18: Transmission dynamics and interventions for diseases with complex life cycles (case studies: schistosomiasis, cholera)**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:10am:  Brief Lecture: Transmission dynamics and interventions for diseases with complex life cycles
+* 9:50-10:30am:  Brief Lecture: Transmission dynamics and interventions for diseases with complex life cycles
 	* Includes:
 	  * transmission and control of schistosomiasis
 	  * hygiene hypotheses, coinfections
 	  * poverty traps and coupled social-ecological models
-* 10:10-11:00am: Computer Tutorial: Coupled SIR models in social-ecological systems
-* 11:00-11:45am: Mentored work time on your own projects.
-* Homework due on Friday, January 19: Draft R script of your infectious disease model
+* 10:30-11:150am: [Computer Tutorial: Model evaluation and comparison]()
+* 11:10-11:45am: Mentored work time on your own projects. Sign up to zoom with Gwen or Cara during and after the computer tutorial time to ask questions and get feedback on your assignment.
+* [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
 
 **Friday, January 19: Course field trip to Edible Insect Farming Working Group at the Université de Strasbourg and vist to the 'In the Days of AIDS' exhibit at the Museum of Contemporary and Modern Art in Strasbourg.**
 
