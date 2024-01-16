@@ -81,7 +81,7 @@
   install.packages('devtools')
   devtools::install_github('ICI3D/ici3d-pkg')
   ```
-* 10:10-10:50am:  Lecture: Transmission dynamics and interventions for vector-borne diseases
+* 10:10-10:50am:  [Lecture: Transmission dynamics and interventions for vector-borne diseases](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/pdf-lectures/IntroVBD.pdf)
 	* Includes:
 	    * biology of malaria and impact on human evolution
 	    * models of malaria and challenges to control
