@@ -114,10 +114,10 @@
 * 9:50-10:30am:  Brief Lecture: Transmission dynamics and interventions for diseases with complex life cycles
 	* Includes:
 	  * transmission and control of schistosomiasis
-	  * hygiene hypotheses, coinfections
+	  * hygiene hypothesis
 	  * poverty traps and coupled social-ecological models
-* 10:30-11:150am: [Computer Tutorial: Model evaluation and comparison](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Age-Prevalence-Model-Comp.zip)
-* 11:10-11:45am: Mentored work time on your own projects. Sign up to zoom with Gwen or Cara during and after the computer tutorial time to ask questions and get feedback on your assignment.
+* 10:30-11:15am: [Computer Tutorial: Model evaluation and comparison](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Age-Prevalence-Model-Comp.zip)
+* 11:10-11:45am: Mentored work time on your own projects. 
 * [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
 
 **Friday, January 19: Course field trip to Edible Insect Farming Working Group at the Université de Strasbourg and vist to the 'In the Days of AIDS' exhibit at the Museum of Contemporary and Modern Art in Strasbourg.**
