@@ -111,10 +111,11 @@
 **Thursday, January 18: Transmission dynamics and interventions for diseases with complex life cycles (case studies: schistosomiasis, cholera)**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:30am:  Brief Lecture: Transmission dynamics and interventions for diseases with complex life cycles
+* 9:50-10:30am:  Brief Lecture: Nutrition, immunity, and poverty in the control of infectious diseases
 	* Includes:
 	  * transmission and control of schistosomiasis
 	  * hygiene hypothesis
+	  * vaccination, immunity, and nutrition
 	  * poverty traps and coupled social-ecological models
 * 10:30-11:15am: [Computer Tutorial: Model evaluation and comparison](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Age-Prevalence-Model-Comp.zip)
 * 11:10-11:45am: Mentored work time on your own projects. 
