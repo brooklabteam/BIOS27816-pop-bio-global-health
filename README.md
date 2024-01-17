@@ -97,14 +97,14 @@
 **Wednesday, January 17: Transmission dynamics and interventions to control zoonotic diseases (case study: rabies)**
 
 * 9:30-9:50am: Reading recap
-* 9:50-11:00am: [Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
-  * We will start with "TutorialSIRModels.R" as this teaches you how to build a disease model in R. This is similar to what you need to turn in for your homework Friday. Please note that your model does not need to be working by Friday--you just need to demonstrate an attempt to write the code to get credit for the assignment. We will help you edit it until it is working.
-  * If you have extra time or are simply interested, work through the second script "BonusTutorialCompartmentalModelsExpanded.R" at your leisure.
-* 11:00-11:45am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
+* 9:50-10:35am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
 	* Includes:
 	  * key terms in understanding zoonotic diseases: reservoir vs. spillover hosts, maintenance vs. target populations 
 	  * reservoir culling and vaccination 
 	  * population biology of rabies persistence and elimination
+* 10:35-11:45am: [Computer Tutorial: Building compartmental models for infectious diseases in R](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/CompartmentalModels.zip)
+  * We will start with "TutorialSIRModels.R" as this teaches you how to build a disease model in R. This is similar to what you need to turn in for your homework Friday. Please note that your model does not need to be working by Friday--you just need to demonstrate an attempt to write the code to get credit for the assignment. We will help you edit it until it is working.
+  * If you have extra time or are simply interested, work through the second script "BonusTutorialCompartmentalModelsExpanded.R" at your leisure.
 * [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
 
 
