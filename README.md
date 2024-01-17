@@ -97,7 +97,7 @@
 **Wednesday, January 17: Transmission dynamics and interventions to control zoonotic diseases (case study: rabies)**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:35am:  Lecture: Transmission dynamics and interventions to control zoonotic diseases
+* 9:50-10:35am:  [Lecture: Transmission dynamics and interventions to control zoonotic diseases](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/pdf-lectures/IntroZoonoticDiseases.pdf)
 	* Includes:
 	  * key terms in understanding zoonotic diseases: reservoir vs. spillover hosts, maintenance vs. target populations 
 	  * reservoir culling and vaccination 
