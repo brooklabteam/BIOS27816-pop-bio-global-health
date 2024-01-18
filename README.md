@@ -111,13 +111,13 @@
 **Thursday, January 18: Transmission dynamics and interventions for diseases with complex life cycles (case studies: schistosomiasis, cholera)**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:20am:  Brief Lecture: Nutrition, immunity, and poverty in the control of infectious diseases
+* 9:50-10:20am:  [Brief Lecture: Nutrition, immunity, and poverty in the control of infectious diseases](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/pdf-lectures/IntroComplexLifeCycles.pdf)
 	* Includes:
 	  * transmission and control of schistosomiasis
 	  * hygiene hypothesis
 	  * vaccination, immunity, and nutrition
 	  * poverty traps and coupled social-ecological models
-* 10:20-10:40am: Building an example ODE for our classroom example (all together)
+* 10:20-10:40am: [Building an example ODE for our classroom example (all together)](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/ExampleModel.zip)
 * 10:40-11:15am: [Computer Tutorial: Model evaluation and comparison](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Age-Prevalence-Model-Comp.zip)
 * 11:15-11:45am: Mentored work time on your own projects. WHen you finish above, use the available class time to start coding your own model, and seek help as needed from Gwen and Cara.
 * [Homework due on Friday, January 19](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/HW-Jan19-Draft-R-Script.pdf): Draft R script of your infectious disease model
