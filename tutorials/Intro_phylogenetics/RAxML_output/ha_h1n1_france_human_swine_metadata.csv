@@ -1,0 +1,9 @@
+Accession,tip.label,Organism_Name,Genus,Family,Country,Host,Collection_Date
+AID48624,AID48624_A_swine_Marseille_2260_1980_H1N1,Influenza A virus (A/swine/Marseille/2260/1980(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,swine,1980
+ACS91401,ACS91401_A_Paris_2709_2009_H1N1,Influenza A virus (A/Paris/2709/2009(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,human,2009
+AGK62667,AGK62667_A_swine_France_CotesdArmor_0388_2009_H1N1,Influenza A virus (A/swine/France/CotesdArmor-0388/2009(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,swine,2009
+AGC13493,AGC13493_A_swine_Cotes_dArmor_110466_2010_H1N1,Influenza A virus (A/swine/Cotes d'Armor/110466/2010(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,swine,2010
+AHC68951,AHC68951_A_StEtienne_1139_2010_H1N1,Influenza A virus (A/StEtienne/1139/2010(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,human,2010
+AHC68973,AHC68973_A_Lyon_1_12_2011_H1N1,Influenza A virus (A/Lyon/1.12/2011(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,human,2011
+AKJ80511,AKJ80511_A_swine_France_Finistere_0011_2011_H1N1,Influenza A virus (A/swine/France/Finistere-0011/2011(H1N1)),Alphainfluenzavirus,Orthomyxoviridae,France,swine,2011
+AY601904,AY601904_Infectious_salmon_anemia_virus,Infectious salmon anemia virus,Isavirus,Orthomyxoviridae,Canada,fish,2004

@@ -133,8 +133,8 @@
 * Programs to download before class: 
   * [MEGA](https://www.megasoftware.net)
   * [RAxML](https://antonellilab.github.io/raxmlGUI/)
-  * [FigTree](https://github.com/rambaut/figtree/releases) - this is not      required before class but it could be useful to use on your own
-  * In R please install the following package
+  * [FigTree](https://github.com/rambaut/figtree/releases) - this is not required before class but it could be useful to use on your own
+  * In R please install the following packages
      ```
       install.packages("BiocManager")
       install.packages('ggtree')

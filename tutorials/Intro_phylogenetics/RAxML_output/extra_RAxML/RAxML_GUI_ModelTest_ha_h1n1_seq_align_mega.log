@@ -1,0 +1,203 @@
+Physical cores: 8
+Logical cores:  8
+Memory:         8GB
+Extensions:     none [WARNING!]
+
+WARNING: MSA has not enough sites to infer reliable results
+Creating new checkpoint file: /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega.ckp
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            8
+  #sites:           574
+  #patterns:        328
+  Max. thread mem:  5 MB
+
+Output:
+  Log:           /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega.log
+  Starting tree: /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega.tree
+  Results:       /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega.out
+
+Selection options:
+  # protein matrices: 19
+  # protein models:   152
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: false
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          2/8
+  RNG seed:         12345
+  subtree repeats:  disabled
+--------------------------------------------------------------------------------
+modeltest-ng was called as follows: 
+>> /Applications/raxmlGUI.app/Contents/Resources/static/bin/modeltest-ng-ARM64 -d aa -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -o /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega --force -p 2 
+
+
+Partition 1/1
+
+ ----ID---  ----MODEL---- ---Time--- -Elapsed--- -------LnL------- -Alpha- -P-inv-
+
+Computation of likelihood scores completed. It took 0h:00:43
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  FLU+G4             1     -3585.2794      7259.4956         0.0000    0.6526
+       2  FLU                0     -3589.1578      7260.8997         1.4041    0.3234
+       3  FLU+I              1     -3589.0932      7267.1232         7.6276    0.0144
+       4  FLU+I+G4           2     -3586.3169      7267.9233         8.4277    0.0097
+       5  JTT-DCMUT          0     -3612.5072      7307.5985        48.1029    0.0000
+       6  JTT                0     -3613.0816      7308.7474        49.2518    0.0000
+       7  JTT-DCMUT+G4       1     -3611.1172      7311.1711        51.6755    0.0000
+       8  JTT+G4             1     -3611.6259      7312.1885        52.6929    0.0000
+       9  JTT-DCMUT+I        1     -3612.5053      7313.9475        54.4519    0.0000
+      10  JTT+I              1     -3613.0620      7315.0608        55.5652    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              FLU+G4
+lnL:                -3585.2794
+Frequencies:        0.0471 0.0509 0.0742 0.0479 0.0250 0.0333 0.0546 0.0764 0.0200 0.0671 0.0715 0.0568 0.0182 0.0305 0.0507 0.0884 0.0743 0.0185 0.0315 0.0632
+Inv. sites prop:    -
+Gamma shape:        2.7227
+Score:              7259.4956
+Weight:             0.6526
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0144
+Gamma:              0.6526
+Gamma-Inv:          0.0097
+Frequencies:        0.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.0212
+Alpha:              2.7227
+Alpha-P.Inv:        2.8153
+P.Inv-Alpha:        0.0212
+Frequencies:        0.0583 0.0331 0.0748 0.0450 0.0273 0.0294 0.0585 0.0737 0.0255 0.0613 0.0829 0.0670 0.0147 0.0370 0.0340 0.0817 0.0668 0.0179 0.0450 0.0661 
+
+Commands:
+  > phyml  -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -d aa -m FLU -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -m PROTGAMMAFLU -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas --model FLU+G4
+  > paup -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas
+  > iqtree -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -m FLU+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  FLU+G4             1     -3585.2794      7198.5588         0.0000    0.8274
+       2  FLU+I+G4           2     -3586.3169      7202.6338         4.0750    0.1078
+       3  FLU                0     -3589.1578      7204.3156         5.7568    0.0465
+       4  FLU+I              1     -3589.0932      7206.1864         7.6276    0.0183
+       5  FLU+G4+F          20     -3579.2275      7224.4550        25.8962    0.0000
+       6  FLU+I+G4+F        21     -3580.3016      7228.6031        30.0443    0.0000
+       7  FLU+F             19     -3582.8959      7229.7919        31.2331    0.0000
+       8  FLU+I+F           20     -3582.8851      7231.7703        33.2115    0.0000
+       9  HIVB+G4+F         20     -3583.7118      7233.4237        34.8649    0.0000
+      10  HIVB+I+G4+F       21     -3584.5155      7237.0309        38.4722    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              FLU+G4
+lnL:                -3585.2794
+Frequencies:        0.0471 0.0509 0.0742 0.0479 0.0250 0.0333 0.0546 0.0764 0.0200 0.0671 0.0715 0.0568 0.0182 0.0305 0.0507 0.0884 0.0743 0.0185 0.0315 0.0632
+Inv. sites prop:    -
+Gamma shape:        2.7227
+Score:              7198.5588
+Weight:             0.8274
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0183
+Gamma:              0.8274
+Gamma-Inv:          0.1078
+Frequencies:        0.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.0212
+Alpha:              2.7227
+Alpha-P.Inv:        2.8153
+P.Inv-Alpha:        0.0212
+Frequencies:        0.0583 0.0331 0.0748 0.0450 0.0273 0.0294 0.0585 0.0737 0.0255 0.0613 0.0829 0.0670 0.0147 0.0370 0.0340 0.0817 0.0668 0.0179 0.0450 0.0661 
+
+Commands:
+  > phyml  -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -d aa -m FLU -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -m PROTGAMMAFLU -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas --model FLU+G4
+  > paup -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas
+  > iqtree -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -m FLU+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  FLU+G4             1     -3585.2794      7198.5588         0.0000    0.8274
+       2  FLU+I+G4           2     -3586.3169      7202.6338         4.0750    0.1078
+       3  FLU                0     -3589.1578      7204.3156         5.7568    0.0465
+       4  FLU+I              1     -3589.0932      7206.1864         7.6276    0.0183
+       5  FLU+G4+F          20     -3579.2275      7228.4550        29.8962    0.0000
+       6  FLU+I+G4+F        21     -3580.3016      7232.6031        34.0443    0.0000
+       7  FLU+F             19     -3582.8959      7232.7919        34.2331    0.0000
+       8  FLU+I+F           20     -3582.8851      7235.7703        37.2115    0.0000
+       9  HIVB+G4+F         20     -3583.7118      7237.4237        38.8649    0.0000
+      10  HIVB+I+G4+F       21     -3584.5155      7241.0309        42.4722    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              FLU+G4
+lnL:                -3585.2794
+Frequencies:        0.0471 0.0509 0.0742 0.0479 0.0250 0.0333 0.0546 0.0764 0.0200 0.0671 0.0715 0.0568 0.0182 0.0305 0.0507 0.0884 0.0743 0.0185 0.0315 0.0632
+Inv. sites prop:    -
+Gamma shape:        2.7227
+Score:              7198.5588
+Weight:             0.8274
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0183
+Gamma:              0.8274
+Gamma-Inv:          0.1078
+Frequencies:        0.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.0212
+Alpha:              2.7227
+Alpha-P.Inv:        2.8153
+P.Inv-Alpha:        0.0212
+Frequencies:        0.0583 0.0331 0.0748 0.0450 0.0273 0.0294 0.0585 0.0737 0.0255 0.0613 0.0829 0.0670 0.0147 0.0370 0.0340 0.0817 0.0668 0.0179 0.0450 0.0661 
+
+Commands:
+  > phyml  -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -d aa -m FLU -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -m PROTGAMMAFLU -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas --model FLU+G4
+  > paup -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas
+  > iqtree -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/ha_h1n1_seq_align_mega.fas -m FLU+G4
+Summary:
+
+Partition 1/1:
+                         Model         Score        Weight
+----------------------------------------------------------
+       BIC              FLU+G4     7259.4956        0.6526
+       AIC              FLU+G4     7198.5588        0.8274
+      AICc              FLU+G4     7198.5588        0.8274
+
+Execution results written to /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega.out
+Starting tree written to /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_ha_h1n1_seq_align_mega.tree

@@ -1,0 +1,177 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas
+  Tree:       Maximum parsimony
+    file:           -
+  #taxa:            8
+  #sites:           807
+  #patterns:        324
+  Max. thread mem:  5 MB
+
+Output:
+  Log:           /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_pb2_h1n1_seq_mega.log
+  Starting tree: /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_pb2_h1n1_seq_mega.tree
+  Results:       /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/RAxML_GUI_ModelTest_pb2_h1n1_seq_mega.out
+
+Selection options:
+  # protein matrices: 19
+  # protein models:   152
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: false
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          2/8
+  RNG seed:         12345
+  subtree repeats:  disabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  LG+I               1     -4529.6878      9153.0821         0.0000    0.5393
+       2  LG+G4              1     -4531.0274      9155.7614         2.6793    0.1413
+       3  JTT+I              1     -4531.0516      9155.8096         2.7275    0.1379
+       4  JTT-DCMUT+I        1     -4532.1528      9158.0121         4.9300    0.0458
+       5  JTT+G4             1     -4532.1990      9158.1045         5.0224    0.0438
+       6  LG+I+G4            2     -4529.5488      9159.4975         6.4154    0.0218
+       7  JTT                0     -4536.4708      9159.9548         6.8727    0.0174
+       8  JTT-DCMUT+G4       1     -4533.2021      9160.1106         7.0285    0.0161
+       9  VT                 0     -4536.5722      9160.1576         7.0754    0.0157
+      10  JTT-DCMUT          0     -4537.3718      9161.7569         8.6747    0.0070
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              LG+I
+lnL:                -4529.6878
+Frequencies:        0.0791 0.0559 0.0420 0.0531 0.0129 0.0408 0.0716 0.0573 0.0224 0.0622 0.0991 0.0646 0.0230 0.0423 0.0440 0.0612 0.0533 0.0121 0.0342 0.0691
+Inv. sites prop:    0.0711
+Gamma shape:        -
+Score:              9153.0821
+Weight:             0.5393
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.7240
+Gamma:              0.2019
+Gamma-Inv:          0.0287
+Frequencies:        0.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.0708
+Alpha:              1.6572
+Alpha-P.Inv:        13.4112
+P.Inv-Alpha:        0.0655
+Frequencies:        0.0593 0.0779 0.0399 0.0459 0.0081 0.0454 0.0706 0.0669 0.0121 0.0661 0.0815 0.0610 0.0434 0.0307 0.0365 0.0708 0.0688 0.0129 0.0219 0.0804 
+
+Commands:
+  > phyml  -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -d aa -m LG -f m -v e -a 0 -c 1 -o tlr
+  > raxmlHPC-SSE3 -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -m PROTGAMMAILG -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas --model LG+I
+  > paup -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas
+  > iqtree -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -m LG+I
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  LG+I+F            20     -4491.0305      9048.0610         0.0000    0.4389
+       2  LG+I+G4+F         21     -4490.9026      9049.8052         1.7441    0.1835
+       3  LG+G4+F           20     -4492.0523      9050.1046         2.0435    0.1580
+       4  JTT+I+F           20     -4493.4573      9052.9146         4.8536    0.0388
+       5  JTT-DCMUT+I+F     20     -4493.6615      9053.3229         5.2619    0.0316
+       6  JTT+I+G4+F        21     -4493.3234      9054.6468         6.5857    0.0163
+       7  JTT+G4+F          20     -4494.3800      9054.7600         6.6990    0.0154
+       8  JTT-DCMUT+I+G4+F   21     -4493.5288      9055.0575         6.9965    0.0133
+       9  RTREV+I+F         20     -4494.5301      9055.0601         6.9991    0.0133
+      10  JTT-DCMUT+G4+F    20     -4494.5502      9055.1005         7.0394    0.0130
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              LG+I+F
+lnL:                -4491.0305
+Frequencies:        0.0593 0.0779 0.0399 0.0459 0.0081 0.0454 0.0706 0.0669 0.0121 0.0661 0.0815 0.0610 0.0434 0.0307 0.0365 0.0708 0.0688 0.0129 0.0219 0.0804
+Inv. sites prop:    0.0665
+Gamma shape:        -
+Score:              9048.0610
+Weight:             0.4389
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.5448
+Gamma:              0.2087
+Gamma-Inv:          0.2348
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.0672
+Alpha:              2.2716
+Alpha-P.Inv:        12.4689
+P.Inv-Alpha:        0.0613
+Frequencies:        0.0593 0.0779 0.0399 0.0459 0.0081 0.0454 0.0706 0.0669 0.0121 0.0661 0.0815 0.0610 0.0434 0.0307 0.0365 0.0708 0.0688 0.0129 0.0219 0.0804 
+
+Commands:
+  > phyml  -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -d aa -m LG -f e -v e -a 0 -c 1 -o tlr
+  > raxmlHPC-SSE3 -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -m PROTGAMMAILGF -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas --model LG+I+F
+  > paup -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas
+  > iqtree -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -m LG+I+F
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  LG+I+F            20     -4491.0305      9050.0610         0.0000    0.4836
+       2  LG+G4+F           20     -4492.0523      9052.1046         2.0435    0.1741
+       3  LG+I+G4+F         21     -4490.9026      9052.8052         2.7441    0.1226
+       4  JTT+I+F           20     -4493.4573      9054.9146         4.8536    0.0427
+       5  JTT-DCMUT+I+F     20     -4493.6615      9055.3229         5.2619    0.0348
+       6  JTT+G4+F          20     -4494.3800      9056.7600         6.6990    0.0170
+       7  RTREV+I+F         20     -4494.5301      9057.0601         6.9991    0.0146
+       8  JTT-DCMUT+G4+F    20     -4494.5502      9057.1005         7.0394    0.0143
+       9  JTT+I+G4+F        21     -4493.3234      9057.6468         7.5857    0.0109
+      10  RTREV+G4+F        20     -4494.9158      9057.8315         7.7705    0.0099
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              LG+I+F
+lnL:                -4491.0305
+Frequencies:        0.0593 0.0779 0.0399 0.0459 0.0081 0.0454 0.0706 0.0669 0.0121 0.0661 0.0815 0.0610 0.0434 0.0307 0.0365 0.0708 0.0688 0.0129 0.0219 0.0804
+Inv. sites prop:    0.0665
+Gamma shape:        -
+Score:              9050.0610
+Weight:             0.4836
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.6002
+Gamma:              0.2299
+Gamma-Inv:          0.1569
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.0672
+Alpha:              2.2716
+Alpha-P.Inv:        12.4689
+P.Inv-Alpha:        0.0613
+Frequencies:        0.0593 0.0779 0.0399 0.0459 0.0081 0.0454 0.0706 0.0669 0.0121 0.0661 0.0815 0.0610 0.0434 0.0307 0.0365 0.0708 0.0688 0.0129 0.0219 0.0804 
+
+Commands:
+  > phyml  -i /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -d aa -m LG -f e -v e -a 0 -c 1 -o tlr
+  > raxmlHPC-SSE3 -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -m PROTGAMMAILGF -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas --model LG+I+F
+  > paup -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas
+  > iqtree -s /Users/gwenddolenkettenburg/Desktop/intro_phylo_paris/sequences_and_alignments/pb2_h1n1_seq_mega.fas -m LG+I+F
+Done
