@@ -140,7 +140,7 @@
       install.packages('ggtree')
       install.packages('tidyverse')
       install.packages('ggplot2')
-      install.packages('ggimage')
+      install.packages('cowplot')
       install.packages('ape')
       install.packages('ggnewscale')
 
