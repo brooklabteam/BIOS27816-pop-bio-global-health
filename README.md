@@ -129,7 +129,7 @@
 
 * 9:30-9:50am: Reading recap
 * 9:50-10:50am:  Lecture: Introduction to phylogenetics (Gwen)
-* 10:50-11:45am: Computer Tutorial: Building and interpreting simple maximum likelihood phylogenies using MEGA and RAxML (Gwen)
+* 10:50-11:45am: Computer Tutorial: [Building and interpreting simple maximum likelihood phylogenies using MEGA and RAxML](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/Intro_phylogenetics.zip) (Gwen)
 * Programs to download before class: 
   * [MEGA](https://www.megasoftware.net)
   * [RAxML](https://antonellilab.github.io/raxmlGUI/)
