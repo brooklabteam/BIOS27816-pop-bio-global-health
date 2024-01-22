@@ -171,7 +171,7 @@
 	  * global expansion of pathogen genomic sequencing in response to COVID-19
 	  * realtime outbreak response from NGS data
 zoonotic origins of SARS-CoV-2
-* 9:50-11:45am: Computer Tutorial: Investigating novel viruses from Next Generation Sequencing data
+* 9:50-11:45am: [Activity: Investigating novel viruses from Next Generation Sequencing data](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/activities/NGS-Outbreak-Investigation.pdf)
   * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
   * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
   * heavy metal associated controls [one](https://artic-network.github.io/artic-live/gc/control_1_title.html), [two](https://artic-network.github.io/artic-live/gc/control_2_title.html), [three](https://artic-network.github.io/artic-live/gc/control_3_title.html)
