@@ -157,6 +157,7 @@
 	  * overview of viral genomics: structure and functions
 	  * zoonotic origins of SARS-CoV-2
 * 10:50-11:45am: [Computer Tutorial: Building and interpreting TimeTrees using BEAST](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/BEAST-SIR.zip)
+  * Prior to class, please download [BEAST2](https://www.beast2.org) and download and install [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.2) on your computer
 * Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 
@@ -171,6 +172,19 @@
 	  * realtime outbreak response from NGS data
 zoonotic origins of SARS-CoV-2
 * 9:50-11:45am: Computer Tutorial: Investigating novel viruses from Next Generation Sequencing data
+  * [index case sequencing](https://artic-network.github.io/artic-live/gc/index_case_title.html)
+  * heavy metal associated cases [one](https://artic-network.github.io/artic-live/gc/case_2_title.html), [two](https://artic-network.github.io/artic-live/gc/case_3_title.html), [three](https://artic-network.github.io/artic-live/gc/case_4_title.html)
+  * heavy metal associated controls [one](https://artic-network.github.io/artic-live/gc/control_1_title.html), [two](https://artic-network.github.io/artic-live/gc/control_2_title.html), [three](https://artic-network.github.io/artic-live/gc/control_3_title.html)
+  * [pet shop environmental sampling](https://artic-network.github.io/artic-live/gc/pet_shop_env_title.html)
+  * [wastewater sampling](https://artic-network.github.io/artic-live/gc/wastewater_seq_title.html)
+  * [Genome Segment S](https://artic-network.github.io/artic-live/gc/segment_S.fasta.txt)
+  * [Genome Segment L](https://artic-network.github.io/artic-live/gc/segment_L.fasta.txt)
+  * [Segment L Phylogeny](https://nextstrain.org/community/emmahodcroft/GC/arenavirus/L)
+  * [Segment S Phylogeny](https://nextstrain.org/community/emmahodcroft/GC/arenavirus/S)
+  * [Tanglegram](https://nextstrain.org/community/emmahodcroft/GC/arenavirus/S:community/emmahodcroft/GC/arenavirus/L)
+  * [Metal cluster sequencing](https://nextstrain.org/community/emmahodcroft/GC/HMFV/FC)
+  * [Phylogenetic analysis of rock concert sequences](https://nextstrain.org/community/emmahodcroft/GC/HMFV/FC?p=grid)
+  * [Final Nexstrain phylogeny](https://nextstrain.org/community/emmahodcroft/GC/HMFV/SC?p=grid)
 * Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 **Thursday, January 25: Final Presentations**
