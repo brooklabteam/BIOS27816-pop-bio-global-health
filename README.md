@@ -156,9 +156,7 @@
 	  * history of phylodynamics as a field
 	  * overview of viral genomics: structure and functions
 	  * zoonotic origins of SARS-CoV-2
-	  * introduction to Nextstrain and GISAID
-	  * global expansion of pathogen genomic sequencing in response to COVID-19
-* 10:50-11:45am: Computer Tutorial: Building and interpreting TimeTrees using BEAST
+* 10:50-11:45am: [Computer Tutorial: Building and interpreting TimeTrees using BEAST](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/tutorials/BEAST-SIR.zip)
 * Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 
@@ -168,8 +166,8 @@
 * 9:20-9:50am:  Lecture: Next Generation Sequencing and Emerging Infectious Diseases
 	* Includes:
 	  * Sangar vs. Illumina vs. nanopore sequencing
-	  * Intro to CZID
-	  * modern tools in pathogen surveillance
+	  * introduction to Nextstrain and GISAID
+	  * global expansion of pathogen genomic sequencing in response to COVID-19
 	  * realtime outbreak response from NGS data
 zoonotic origins of SARS-CoV-2
 * 9:50-11:45am: Computer Tutorial: Investigating novel viruses from Next Generation Sequencing data
