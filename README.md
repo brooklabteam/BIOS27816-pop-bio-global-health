@@ -151,7 +151,7 @@
 **Tuesday, January 23: Molecular epidemiology of SARS-CoV-2**
 
 * 9:30-9:50am: Reading recap
-* 9:50-10:50am:  Lecture: Introduction to phylodynamics and molecular epidemiology 
+* 9:50-10:50am:  [Lecture: Introduction to phylodynamics and molecular epidemiology](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/pdf-lectures/IntroPhylodynamics.pdf)
 	* Includes:
 	  * history of phylodynamics as a field
 	  * overview of viral genomics: structure and functions
@@ -164,9 +164,9 @@
 **Wednesday, January 24: Next Generation Sequencing and Emerging Infectious Diseases**
 
 * 9:00-9:20am: Reading recap
-* 9:20-9:50am:  Lecture: Next Generation Sequencing and Emerging Infectious Diseases
+* 9:20-9:50am:  [Lecture: Next Generation Sequencing and Emerging Infectious Diseases](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/pdf-lectures/IntroSequencing.pdf)
 	* Includes:
-	  * Sangar vs. Illumina vs. nanopore sequencing
+	  * Sanger vs. Illumina vs. nanopore sequencing
 	  * introduction to Nextstrain and GISAID
 	  * global expansion of pathogen genomic sequencing in response to COVID-19
 	  * realtime outbreak response from NGS data
@@ -184,7 +184,7 @@ zoonotic origins of SARS-CoV-2
   * [Tanglegram](https://nextstrain.org/community/emmahodcroft/GC/arenavirus/S:community/emmahodcroft/GC/arenavirus/L)
   * [Metal cluster sequencing](https://nextstrain.org/community/emmahodcroft/GC/HMFV/FC)
   * [Phylogenetic analysis of rock concert sequences](https://nextstrain.org/community/emmahodcroft/GC/HMFV/FC?p=grid)
-  * [Final Nexstrain phylogeny](https://nextstrain.org/community/emmahodcroft/GC/HMFV/SC?p=grid)
+  * [Final Nextstrain phylogeny](https://nextstrain.org/community/emmahodcroft/GC/HMFV/SC?p=grid)
 * Homework due on Thursday, January 25: [Final R script + term paper](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Paper-Model.pdf) + [final presentations](https://github.com/brooklabteam/BIOS27816-pop-bio-global-health/blob/main/assignment-templates/Final-Presentation.pdf)
 
 **Thursday, January 25: Final Presentations**
